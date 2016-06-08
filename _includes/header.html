@@ -1,25 +1,27 @@
 <header>
   <nav class="navbar navbar-default">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-        <span class="sr-only">メニュー</span>
-        {% assign sorted_pages = site.pages | sort: 'nav_order' %}
-        {% for my_page in sorted_pages %}
-          {% if my_page.nav_title %}
-          <span class="icon-bar"></span>
-          {% endif %}
-        {% endfor %}
-      </button>
-    </div>
-   
-    <div id="navbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        {% for my_page in sorted_pages %}
-          {% if my_page.nav_title %}
-          <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.nav_title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+          <span class="sr-only">メニュー</span>
+          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          {% for my_page in sorted_pages %}
+            {% if my_page.nav_title %}
+            <span class="icon-bar"></span>
+            {% endif %}
+          {% endfor %}
+        </button>
+      </div>
+     
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          {% for my_page in sorted_pages %}
+            {% if my_page.nav_title %}
+            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.nav_title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </nav>
 </header>
