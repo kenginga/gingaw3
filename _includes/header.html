@@ -6,7 +6,7 @@
           <span class="sr-only">メニュー</span>
         {%  assign sorted_pages = site.pages | sort: 'nav_order'
       %}{%  for my_page in sorted_pages
-      %}{%    if my_page.nav_title -
+      %}{%    if my_page.nav_title
       %}  <span class="icon-bar"></span>
         {%    endif
       %}{%  endfor
