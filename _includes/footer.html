@@ -5,7 +5,16 @@
         <img src="{{ site.baseurl }}/ginga-wireless-logo.svg" class="ginga-logo img-responsive">
       </div>
       <div class="col-lg-9">
-        <p class="row">TBD</p>
+        <div class="row">
+          <ul class="nav nav-pills">
+          {%  assign sorted_pages = site.pages | sort: 'nav_order'
+        %}{%  for my_page in sorted_pages
+        %}{%    if my_page.nav_title
+        %}  <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.nav_title }}</a></li>
+          {%    endif
+        %}{%  endfor
+        %}</ul>
+        </div>
         <p class="row text-center"><small>Copyright (c) 2016 GINGA Wireless. All Rights Reserved.</small></p>
       </div>
     </div>
