@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 本・CD・DVD
-nav_title: 本・CD・DVD
-nav_order: 2
-permalink: /books/
+title: ご案内
+nav_title: 店舗のご案内
+nav_order: 4
+permalink: /information/
 ---
 TBW
