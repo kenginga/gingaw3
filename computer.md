@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 本・CD・DVD
-nav_title: 本・CD・DVD
-nav_order: 2
-permalink: /books/
+title: コンピュータ
+nav_title: コンピュータ
+nav_order: 3
+permalink: /computer/
 ---
 TBW
