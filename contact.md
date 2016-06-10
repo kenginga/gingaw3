@@ -28,13 +28,8 @@ permalink: /contact/
       <div class="alert alert-warning">
         <p>お問い合わせの際には、営業時間にご注意ください。</p>
       </div>
-      <dl class="dl-horizontal">
-        <dt>営業時間：</dt><dd>午前11時 ～ 午後7時（シアトル／太平洋時間）</dd>
-        <dt>定休日：</dt><dd>日曜日、火曜日、メモリアル・デー、サンクスギビング、クリスマス、ニューイヤー・デー</dd>
-        <dt>短縮営業：</dt><dd>インデペンデンス・デー（7月4日）</dd>
-        <dt>その他の休業：</dt><dd>2016年8月7日（日）～2016年8月10日（水）</dd>
-      </dl>
-    </div>
+{%    include business-hours.html
+%}    </div>
     <hr>
   </div>
 </main>
