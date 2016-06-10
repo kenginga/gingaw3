@@ -7,9 +7,7 @@
 
 # Site settings
 title: GINGA Wireless
-description: > # this means to ignore newlines until "baseurl:"
-  米国ワシントン州ベルビュー市にある携帯電話ショップ。
-  それに加えて、日本の本やCDなどの買取・販売。さらに、コンピュータのサポートも。
+description: 米国ワシントン州ベルビュー市にある携帯電話ショップ。それに加えて、日本の本やCDなどの買取・販売。さらに、コンピュータのサポートも。
 baseurl: "/gingaw3" # the subpath of your site, e.g. /blog
 url: "http://kenginga.github.io" # the base hostname & protocol for your site
 
