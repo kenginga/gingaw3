@@ -25,6 +25,42 @@ phone_jp:
   button: そんな方には &raquo;
   indent: "        "
   class: panel-info
+
+pc_problem:
+  title: コンピュータの悩み
+  list:
+    - 「使い方がわからない」
+    - 「最近、どうも調子が悪い」
+    - 「ウィルスが心配」
+    - 「どれを買えばいいの？」
+  path: /computer/
+  button: そんな方には &raquo;
+  indent: "        "
+  class: panel-info
+
+book_sell:
+  title: 本・CDなどを売りたい
+  list:
+    - 「どんなものが売れる？」
+    - 「いくらで買ってくれる？」
+    - 「いらないものを引き取る？」
+    - 「出張してくれる？」
+  path: /books/
+  button: そんな疑問へは &raquo;
+  indent: "        "
+  class: panel-info
+
+phone_h2o:
+  title: H2O by KDDI Mobile
+  list:
+    - 米国内、人気のAT&amp;Tネットワーク<small>（Partnerエリアを除く）</small>
+    - 日本の固定電話へ通話無制限
+    - 月額$30～でLTE対応
+    - iPhone・Androidスマホ対応
+  path: /cell-phone/
+  button: 詳細を確認する &raquo;
+  indent: "        "
+  class: panel-primary
 ---
 <main>
   <div class="container">
@@ -33,8 +69,8 @@ phone_jp:
       <p>米国ワシントン州ベルビュー市にある携帯電話ショップ。それに加えて、日本の本やCDなどの買取・販売。さらに、コンピュータのサポートも。</p>
       <p>
         <a href="{{ site.baseurl }}/cell-phone/" class="btn btn-default btn-lg" role="button">携帯電話</a>
-        <a href="{{ site.baseurl }}/books/" class="btn btn-default btn-lg" role="button">本・CD・DVD</a>
-        <a href="{{ site.baseurl }}/computer/" class="btn btn-default btn-lg" role="button">コンピュータ</a>
+        <a href="{{ site.baseurl }}/books/"      class="btn btn-default btn-lg" role="button">本・CD・DVD</a>
+        <a href="{{ site.baseurl }}/computer/"   class="btn btn-default btn-lg" role="button">コンピュータ</a>
       </p>
     </div>
     <div class="row">
@@ -45,53 +81,14 @@ phone_jp:
 {% include panel-at-top.html p=page.phone_jp
 %}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-info">
-          <div class="panel-heading">
-            <h3 class="panel-title">コンピュータの悩み</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">「使い方がわからない」</li>
-            <li class="list-group-item">「最近、どうも調子が悪い」</li>
-            <li class="list-group-item">「ウィルスが心配」</li>
-            <li class="list-group-item">「どれを買えばいいの？」</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/computer/" role="button">そんな方には &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.pc_problem
+%}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-info">
-          <div class="panel-heading">
-            <h3 class="panel-title">本・CDなどを売りたい</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">「どんなものが売れる？」</li>
-            <li class="list-group-item">「いくらで買ってくれる？」</li>
-            <li class="list-group-item">「いらないものを引き取る？」</li>
-            <li class="list-group-item">「出張してくれる？」</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/books/" role="button">そんな疑問へは &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.book_sell
+%}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">H2O by KDDI Mobile</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">米国内、人気のAT&amp;Tネットワーク<small>（Partnerエリアを除く）</small></li>
-            <li class="list-group-item">日本の固定電話へ通話無制限</li>
-            <li class="list-group-item">月額$30～でLTE対応</li>
-            <li class="list-group-item">iPhone・Androidスマホ対応</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">詳細を確認する &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.phone_h2o
+%}      </article>
       <article class="col-sm-6 col-lg-3">
         <div class="panel panel-primary">
           <div class="panel-heading">
