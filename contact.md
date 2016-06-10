@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 本・CD・DVD
-nav_title: 本・CD・DVD
-nav_order: 2
-permalink: /books/
+title: お問い合わせ
+nav_title: お問い合わせ
+nav_order: 5
+permalink: /contact/
 ---
 TBW
