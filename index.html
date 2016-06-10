@@ -26,21 +26,8 @@ phone_usa:
     </div>
     <div class="row">
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-info">
-          <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・日本で使う</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">「日本の電話番号を持ちたい」</li>
-            <li class="list-group-item">「日本でネットを使いたい」</li>
-            <li class="list-group-item">「利用料金を安くしたい」</li>
-            <li class="list-group-item">「面倒なことはイヤ」</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">そんな方には &raquo;</a>
-          </div>
-        </div>
-      </article>
+      {% include panel-at-top.html p=page.phone_usa
+    %}</article>
       <article class="col-sm-6 col-lg-3">
         <div class="panel panel-info">
           <div class="panel-heading">
