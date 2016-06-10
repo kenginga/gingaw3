@@ -17,9 +17,9 @@ permalink: /information/
                 <h3 class="panel-title">I-405から</h3>
               </div>
               <ol class="list-group">
-                <li class="list-group-item>WA-520へ</li>
-                <li class="list-group-item><strong>Exit 124th Ave NE</strong>の車線へ</li>
-                <li class="list-group-item>Northup Way (NE 20th St)で左折</li>
+                <li class="list-group-item">WA-520へ</li>
+                <li class="list-group-item"><strong>Exit 124th Ave NE</strong>の車線へ</li>
+                <li class="list-group-item">Northup Way (NE 20th St)で左折</li>
               </ol>
             </div>
           </div>
