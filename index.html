@@ -61,6 +61,42 @@ phone_h2o:
   button: 詳細を確認する &raquo;
   indent: "        "
   class: panel-primary
+
+phone_gs:
+  title: GoSmart Mobile (T-Mobile)
+  list:
+    - 米国T-Mobile社によるサービス<small>（Partnerエリアを除く）</small>
+    - <small>毎月</small>最大20GBの高速データ
+    - 月額$30～でテザリング対応
+    - iPhone・Androidスマホ対応
+  path: /cell-phone/
+  button: 詳細を確認する &raquo;
+  indent: "        "
+  class: panel-primary
+
+phone_jsim:
+  title: HanaCell ジャパンSIMカード
+  list:
+    - 日本への一時帰国者向け
+    - 日本でも使い慣れた端末を
+    - ご自身の携帯番号<small>（維持費 年$8）</small>
+    - 通話発信、SMS送信、使った分だけ自動引落
+  path: /cell-phone/
+  button: 詳細を確認する &raquo;
+  indent: "        "
+  class: panel-primary
+
+phone_sony:
+  title: Sony Xperia シリーズ
+  list:
+    - 安心のAndroidスマートフォン
+    - SIMロックなし(Unlocked)
+    - 高性能で、快適な動作
+    - 日本語メニュー、日本語文字入力、日本語音声認識 全対応
+  path: /cell-phone/
+  button: 詳細を確認する &raquo;
+  indent: "        "
+  class: panel-primary
 ---
 <main>
   <div class="container">
@@ -90,53 +126,17 @@ phone_h2o:
 {% include panel-at-top.html p=page.phone_h2o
 %}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">GoSmart Mobile (T-Mobile)</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">米国T-Mobile社によるサービス<small>（Partnerエリアを除く）</small></li>
-            <li class="list-group-item"><small>毎月</small>最大20GBの高速データ</li>
-            <li class="list-group-item">月額$30～でテザリング対応</li>
-            <li class="list-group-item">iPhone・Androidスマホ対応</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">詳細を確認する &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.phone_gs
+%}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">HanaCell ジャパンSIMカード</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">日本への一時帰国者向け</li>
-            <li class="list-group-item">日本でも使い慣れた端末を</li>
-            <li class="list-group-item">ご自身の携帯番号<small>（維持費 年$8</small>）</li>
-            <li class="list-group-item">通話発信、SMS送信、使った分だけ自動引落</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">詳細を確認する &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.phone_jsim
+%}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Sony Xperia シリーズ</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">安心のAndroidスマートフォン</li>
-            <li class="list-group-item">SIMロックなし(Unlocked)</li>
-            <li class="list-group-item">高性能で、快適な動作</li>
-            <li class="list-group-item">日本語メニュー、日本語文字入力、日本語音声認識 全対応</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">詳細を確認する &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.phone_jsim
+%}      </article>
+      <article class="col-sm-6 col-lg-3">
+{% include panel-at-top.html p=page.phone_sony
+%}      </article>
     </div>
   </div>
 </main>
