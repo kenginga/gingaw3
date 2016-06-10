@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 携帯電話
-nav_title: 携帯電話
-nav_order: 1
-permalink: /cell-phone/
+title: 本・CD・DVD
+nav_title: 本・CD・DVD
+nav_order: 2
+permalink: /books/
 ---
 
 TBW
