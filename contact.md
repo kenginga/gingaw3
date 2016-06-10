@@ -5,7 +5,8 @@ nav_title: お問い合わせ
 nav_order: 5
 permalink: /contact/
 ---
-
+<main>
+  <div class="container">
 オンライン
 ----------
 お問い合わせは、外部サイト(Google)からお願いします。
@@ -19,3 +20,5 @@ permalink: /contact/
 営業時間： 午前11時 ～ 午後7時
 定休日： 日曜日、火曜日、メモリアル・デー、サンクスギビング、クリスマス
 短縮営業： インデペンデンス・デー（7月4日）
+  </div>
+</main>
