@@ -1,13 +1,26 @@
 ---
 layout: default
 title: GINGA Wireless - 携帯電話・本・コンピュータのことなら
-phone_usa:
+
+phone_us:
   title: 携帯電話・アメリカで使う
   list:
     - 「電話をたくさん使いたい」
     - 「ネットを中心に使う」
     - 「利用料金を安くしたい」
     - 「短期間だけ必要」
+  path: /cell-phone/
+  button: そんな方には &raquo;
+  indent: "        "
+  class: panel-info
+
+phone_jp:
+  title: 携帯電話・日本で使う
+  list:
+    - 「日本の電話番号を持ちたい」
+    - 「日本でネットを使いたい」
+    - 「利用料金を安くしたい」
+    - 「面倒なことはイヤ」
   path: /cell-phone/
   button: そんな方には &raquo;
   indent: "        "
@@ -26,24 +39,11 @@ phone_usa:
     </div>
     <div class="row">
       <article class="col-sm-6 col-lg-3">
-{% include panel-at-top.html p=page.phone_usa
+{% include panel-at-top.html p=page.phone_us
 %}      </article>
       <article class="col-sm-6 col-lg-3">
-        <div class="panel panel-info">
-          <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・日本で使う</h3>
-          </div>
-          <ul class="list-group">
-            <li class="list-group-item">「日本の電話番号を持ちたい」</li>
-            <li class="list-group-item">「日本でネットを使いたい」</li>
-            <li class="list-group-item">「利用料金を安くしたい」</li>
-            <li class="list-group-item">「面倒なことはイヤ」</li>
-          </ul>
-          <div class="panel-footer">
-            <a class="btn btn-default" href="{{ site.baseurl }}/cell-phone/" role="button">そんな方には &raquo;</a>
-          </div>
-        </div>
-      </article>
+{% include panel-at-top.html p=page.phone_jp
+%}      </article>
       <article class="col-sm-6 col-lg-3">
         <div class="panel panel-info">
           <div class="panel-heading">
