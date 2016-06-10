@@ -1,4 +1,4 @@
-{{ include.p.indent }}<div class="panel {{ include.p.class }}">
+<div class="panel {{ include.p.class }}">
 {{ include.p.indent }}  <div class="panel-heading">
 {{ include.p.indent }}    <h3 class="panel-title">{{ include.p.title }}</h3>
 {{ include.p.indent }}  </div>
@@ -8,6 +8,7 @@
 {{ include.p.indent }}  {% endfor
 {{ include.p.indent }}%}</ul>
 {{ include.p.indent }}  <div class="panel-footer">
-{{ include.p.indent }}    <a class="btn btn-default" href="{{ include.p.href }}" role="button">{{ include.p.button }}</a>
+{{ include.p.indent }}    <a class="btn btn-default" href="{{ site.baseurl }}{{ include.p.path }}" role="button">{{ include.p.button }}</a>
 {{ include.p.indent }}  </div>
 {{ include.p.indent }}</div>
+{{ include.p.indent }}
