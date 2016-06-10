@@ -12,10 +12,6 @@ permalink: /information/
         <span style="font-size: 200%;">1840 130th Ave NE #12<br>Bellevue, WA 98005</span>
         <div class="row">
           <div class="col-md-6">
-            <div class="panel panel-info">
-              <div class="panel-heading">
-                <h3 class="panel-title">車で行く</h3>
-              </div>
               <ul class="nav nav-tabs">
                 <li class="active"><a href="#south"     data-toggle="tab" aria-expanded="true" >南から</a></li>
                 <li class=""      ><a href="#profile"   data-toggle="tab" aria-expanded="false">北から</a></li>
@@ -39,12 +35,8 @@ permalink: /information/
                   <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
                 </div>
               </div>
-            </div>
           </div>
           <div class="col-md-6">
-              <div class="panel-heading">
-                <h3 class="panel-title">WA-520E<h3>
-              </div>
           </div>
         </div>
       </div>
