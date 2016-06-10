@@ -25,7 +25,7 @@ permalink: /contact/
         <p>電話番号の先頭の「1」は、ロング・ディスタンスを意味します。「1」が必要な場合があります。</p>
         <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
       </div>
-      <div class="alert alert-info">
+      <div class="alert alert-warning">
         <p>営業時間にご注意ください。</p>
       </div>
       <dl class="dl-horizontal">
