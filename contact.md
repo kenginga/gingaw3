@@ -7,14 +7,14 @@ permalink: /contact/
 ---
 <main>
   <div class="container">
-    <p>お問い合わせは、ありがとうございます。</p>
+    <p>お問い合わせ、ありがとうございます。</p>
     <hr>
     <div>
       <h2>オンラインでのお問い合わせ</h2>
-      <p>お問い合わせは、外部サイト(Google)からお願いします。</p>
       <div class="alert alert-warning">
         <p>休業日を除き、24時間以内に返信いたします。返信がない場合には、お手数ですが、再度お問い合わせください。</p>
       </div>
+      <p>お問い合わせは、以下の外部サイト(Google)からお願いします。</p>
       <a href="https://docs.google.com/forms/d/1dC6fsDXxYNeQRDl4Sx6ly3f_HwbPVN9egNLDHMPQNXc/viewform" class="btn btn-warning btn-lg">外部サイトへ</a>
     </div>
     <hr>
@@ -27,5 +27,6 @@ permalink: /contact/
         <dt>短縮営業：</dt><dd>インデペンデンス・デー（7月4日）</dd>
       </dl>
     </div>
+    <hr>
   </div>
 </main>
