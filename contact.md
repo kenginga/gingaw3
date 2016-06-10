@@ -26,7 +26,7 @@ permalink: /contact/
         <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
       </div>
       <div class="alert alert-warning">
-        <p>営業時間にご注意ください。</p>
+        <p>お問い合わせの際には、営業時間にご注意ください。</p>
       </div>
       <dl class="dl-horizontal">
         <dt>営業時間：</dt><dd>午前11時 ～ 午後7時（シアトル／太平洋時間）</dd>
