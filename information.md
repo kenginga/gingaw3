@@ -9,6 +9,23 @@ permalink: /information/
   <div class="container">
     <div class="row">
       <div class="col-md-6">
+        <span style="font-size: 200%;">1840 130th Ave NE #12<br>Bellevue, WA 98005</span>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="panel panel-info">
+              <div class="panel-heading">
+                <h3 class="panel-title">I-405から</h3>
+              </div>
+              <ol class="list-group">
+                <li class="list-group-item>WA-520へ</li>
+                <li class="list-group-item><strong>Exit 124th Ave NE</strong>の車線へ</li>
+                <li class="list-group-item>Northup Way (NE 20th St)で左折</li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-md-6">
+          </div>
+        </div>
       </div>
       <article class="col-md-6">
         <div class="panel panel-info">
