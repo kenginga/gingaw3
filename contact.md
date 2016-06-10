@@ -9,8 +9,8 @@ permalink: /contact/
   <div class="container">
     <div>
       <h2>オンラインでのお問い合わせ</h2>
-      <div class="embed-responsive">
-        <iframe src="https://docs.google.com/forms/d/1dC6fsDXxYNeQRDl4Sx6ly3f_HwbPVN9egNLDHMPQNXc/viewform?embedded=true#responses" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+      <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/1dC6fsDXxYNeQRDl4Sx6ly3f_HwbPVN9egNLDHMPQNXc/viewform?embedded=true#responses" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
       </div>
       <blockquote>
         <small>通常、休業日を除き、24時間以内に返信いたします。返信がない場合には、お手数ですが、再度お問い合わせください。</small>
