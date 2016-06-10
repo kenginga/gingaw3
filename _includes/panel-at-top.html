@@ -1,14 +1,13 @@
-{{ include.indent }}<div class="panel {{ include.class }}">
-{{ include.indent }}  <div class="panel-heading">
-{{ include.indent }}    <h3 class="panel-title">{{ include.title }}</h3>
-{{ include.indent }}  </div>
-{{ include.indent }}  <ul class="list-group">
-{{ include.indent }}  {% for list_item in include.list
-{{ include.indent }}%}  <li class="list-group-item">{{ list_item }}</li>
-{{ include.indent }}  {% endfor
-{{ include.indent }}%}</ul>
-{{ include.indent }}  <div class="panel-footer">
-{{ include.indent }}    <a class="btn btn-default" href="{{ include.href }}" role="button">{{ include.button }}</a>
-{{ include.indent }}  </div>
-{{ include.indent }}</div>
-
+{{ include.p.indent }}<div class="panel {{ include.p.class }}">
+{{ include.p.indent }}  <div class="panel-heading">
+{{ include.p.indent }}    <h3 class="panel-title">{{ include.p.title }}</h3>
+{{ include.p.indent }}  </div>
+{{ include.p.indent }}  <ul class="list-group">
+{{ include.p.indent }}  {% for list_item in include.p.list
+{{ include.p.indent }}%}  <li class="list-group-item">{{ list_item }}</li>
+{{ include.p.indent }}  {% endfor
+{{ include.p.indent }}%}</ul>
+{{ include.p.indent }}  <div class="panel-footer">
+{{ include.p.indent }}    <a class="btn btn-default" href="{{ site.baseurl }}{{ include.p.path }}" role="button">{{ include.p.button }}</a>
+{{ include.p.indent }}  </div>
+{{ include.p.indent }}</div>
