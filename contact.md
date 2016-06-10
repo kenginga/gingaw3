@@ -25,7 +25,10 @@ permalink: /contact/
         <p>電話番号の先頭の「1」は、ロング・ディスタンスを意味します。「1」が必要な場合があります。</p>
         <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
       </div>
-      <dl class="alert alert-warning dl-horizontal">
+      <div class="alert alert-info">
+        <p>営業時間にご注意ください。</p>
+      </div>
+      <dl class="dl-horizontal">
         <dt>営業時間：</dt><dd>午前11時 ～ 午後7時（シアトル／太平洋時間）</dd>
         <dt>定休日：</dt><dd>日曜日、火曜日、メモリアル・デー、サンクスギビング、クリスマス、ニューイヤー・デー</dd>
         <dt>短縮営業：</dt><dd>インデペンデンス・デー（7月4日）</dd>
