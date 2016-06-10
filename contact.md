@@ -20,17 +20,17 @@ permalink: /contact/
     <hr>
     <div>
       <h2>電話によるお問い合わせ</h2>
-      <span style="font-size: 400%;"><strong>1-425-503-0322</strong></span>
-      <dl class="dl-horizontal">
+      <span style="font-size: 300%;"><strong>1-425-503-0322</strong></span>
+      <div class="alert alert-info">
+        <p>電話番号の先頭の「1」は、ロング・ディスタンスを意味します。「1」が必要な場合があります。</p>
+        <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
+      </div>
+      <dl class="alert alert-warning dl-horizontal">
         <dt>営業時間：</dt><dd>午前11時 ～ 午後7時（シアトル／太平洋時間）</dd>
         <dt>定休日：</dt><dd>日曜日、火曜日、メモリアル・デー、サンクスギビング、クリスマス、ニューイヤー・デー</dd>
         <dt>短縮営業：</dt><dd>インデペンデンス・デー（7月4日）</dd>
         <dt>その他の休業：</dt><dd>2016年8月7日（日）～2016年8月10日（水）</dd>
       </dl>
-      <div class="alert alert-warning">
-        <p>電話番号の先頭の「1」は、ロング・ディスタンスを意味します。「1」が必要な場合があります。</p>
-        <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
-      </div>
     </div>
     <hr>
   </div>
