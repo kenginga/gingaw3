@@ -11,26 +11,39 @@ permalink: /information/
       <div class="col-md-6">
         <span style="font-size: 200%;">1840 130th Ave NE #12<br>Bellevue, WA 98005</span>
         <ul class="nav nav-tabs">
-          <li class="active"><a href="#south"     data-toggle="tab" aria-expanded="true" >南から</a></li>
-          <li class=""      ><a href="#profile"   data-toggle="tab" aria-expanded="false">北から</a></li>
-          <li class=""      ><a href="#dropdown1" data-toggle="tab" aria-expanded="false">東から</a></li>
+          <li class="active"><a href="#south" data-toggle="tab" aria-expanded="true" >Renton（南）から</a></li>
+          <li class=""      ><a href="#north" data-toggle="tab" aria-expanded="false">Kirkland（北）から</a></li>
+          <li class=""      ><a href="#west"  data-toggle="tab" aria-expanded="false">Seattle（西）から</a></li>
         </ul>
         <div id="myTabContent" class="tab-content">
           <div class="tab-pane fade active in" id="south">
             <ol class="list-group">
               <li class="list-group-item">I-405 NからWA-502のランプへ</li>
-              <li class="list-group-item"><strong>Exit 124th Ave NE</strong>の車線を進み、そのままExitへ</li>
+              <li class="list-group-item"><strong>Exit 124th Ave NE</strong>の車線を進み、そのまま出口へ</li>
               <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
               <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
-              <li class="list-group-item">左手のAngelo’sを過ぎて、左折</li>
-              <li class="list-group-item">駐車場進み、左手の建物1840を過ぎて、左折</li>
+              <li class="list-group-item">左手のレストラン、Angelo’sを過ぎて、左折</li>
+              <li class="list-group-item">駐車場を進み、左手の建物「1840」を過ぎて、左折</li>
             </ol>
           </div>
-          <div class="tab-pane fade" id="profile">
-            <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
+          <div class="tab-pane fade" id="north">
+            <ol class="list-group">
+              <li class="list-group-item">I-405 Sから<strong>WA-502 E</strong>のランプへ</li>
+              <li class="list-group-item">WA-502 Eに入ってすぐ、Exit 124th Ave NEの出口へ</li>
+              <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
+              <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
+              <li class="list-group-item">左手のレストラン、Angelo’sを過ぎて、左折</li>
+              <li class="list-group-item">駐車場を進み、左手の建物「1840」を過ぎて、左折</li>
+            </ol>
           </div>
-          <div class="tab-pane fade" id="dropdown1">
-            <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
+          <div class="tab-pane fade" id="west">
+            <ol class="list-group">
+              <li class="list-group-item">WA-502 Eを、Exit 124th Ave NEで降りる</li>
+              <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
+              <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
+              <li class="list-group-item">左手のレストラン、Angelo’sを過ぎて、左折</li>
+              <li class="list-group-item">駐車場を進み、左手の建物「1840」を過ぎて、左折</li>
+            </ol>
           </div>
         </div>
       </div>
