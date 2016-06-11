@@ -8,8 +8,6 @@ permalink: /information/
 <main>
   <div class="container">
     <div class="jumbotron ginga-store-front">
-      <h2></h2>
-      <p></p>
     </div>
     <div class="row">
       <div class="col-md-6">
