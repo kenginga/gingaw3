@@ -16,13 +16,8 @@ body,.tooltip,.popover {
   margin-top: 20px;
 }
 
-.jumbotron {
+.ginga-store-front {
   background-image: url("{{ site.baseurl }}/images/DSC_0501.JPG");
   background-size: cover;
   background-position: 40% 20%;
-  text-shadow: 1.5px 1.5px 3px white, -1.5px 1.5px 3px white, 1.5px -1.5px 3px white, -1.5px -1.5px 3px white;
-}
-
-.jumbotron p {
-    font-weight: bold;
 }
