@@ -24,7 +24,7 @@ permalink: /information/
         <div id="myTabContent" class="tab-content">
           <div class="tab-pane fade active in" id="south">
             <ol class="list-group">
-              <li class="list-group-item">I-405 NからWA-502のランプへ</li>
+              <li class="list-group-item">I-405 NからWA-520のランプへ</li>
               <li class="list-group-item"><strong>Exit 124th Ave NE</strong>の車線を進み、そのまま出口へ</li>
               <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
               <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
@@ -34,8 +34,8 @@ permalink: /information/
           </div>
           <div class="tab-pane fade" id="north">
             <ol class="list-group">
-              <li class="list-group-item">I-405 Sから<strong>WA-502 E</strong>のランプへ</li>
-              <li class="list-group-item">WA-502 Eに入ってすぐ、Exit 124th Ave NEの出口へ</li>
+              <li class="list-group-item">I-405 Sから<strong>WA-520 E</strong>のランプへ</li>
+              <li class="list-group-item">WA-520 Eに入ってすぐ、Exit 124th Ave NEの出口へ</li>
               <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
               <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
               <li class="list-group-item">左手のレストラン、Angelo’sを過ぎて、左折</li>
@@ -44,7 +44,7 @@ permalink: /information/
           </div>
           <div class="tab-pane fade" id="west">
             <ol class="list-group">
-              <li class="list-group-item">WA-502 Eを、Exit 124th Ave NEで降りる</li>
+              <li class="list-group-item">WA-520 Eを、Exit 124th Ave NEで降りる</li>
               <li class="list-group-item">Northup Way (NE 20th St)の信号を左折</li>
               <li class="list-group-item">一つ目の信号、130th Ave NEで右折</li>
               <li class="list-group-item">左手のレストラン、Angelo’sを過ぎて、左折</li>
