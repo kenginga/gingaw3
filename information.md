@@ -12,6 +12,7 @@ permalink: /information/
         <div class="panel panel-default">
           <div class="panel-body">
             <span style="font-size: 200%;"><strong>1840 130th Ave NE #12<br>Bellevue, WA 98005</strong></span>
+            <hr>
 {%    include business-hours.html
 %}          </div>
         </div>
