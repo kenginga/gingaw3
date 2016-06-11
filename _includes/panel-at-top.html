@@ -2,7 +2,10 @@
 {{ include.p.indent }}  <div class="panel-heading">
 {{ include.p.indent }}    <h3 class="panel-title">{{ include.p.title }}</h3>
 {{ include.p.indent }}  </div>
-{{ include.p.indent }}  <ul class="list-group">
+{{ include.p.indent }}  {% if include.p.image
+{{ include.p.indent }}%}  <img src="{{ include.p.image }}" class="img-responsive" />
+{{ include.p.indent }}  {% endif
+{{ include.p.indent }}%}<ul class="list-group">
 {{ include.p.indent }}  {% for list_item in include.p.list
 {{ include.p.indent }}%}  <li class="list-group-item">{{ list_item }}</li>
 {{ include.p.indent }}  {% endfor
