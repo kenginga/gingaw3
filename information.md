@@ -12,9 +12,9 @@ permalink: /information/
         <div class="panel panel-default">
           <div class="panel-body">
             <span style="font-size: 200%;"><strong>1840 130th Ave NE #12<br>Bellevue, WA 98005</strong></span>
-          </div>
 {%    include business-hours.html
-%}        </div>
+%}          </div>
+        </div>
         <ul class="nav nav-tabs">
           <li class="active"><a href="#south" data-toggle="tab" aria-expanded="true" >Renton（南）から</a></li>
           <li class=""      ><a href="#north" data-toggle="tab" aria-expanded="false">Kirkland（北）から</a></li>
