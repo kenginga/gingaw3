@@ -9,16 +9,16 @@ body,.tooltip,.popover {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, "Arial", "メイリオ", Meiryo, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", sans-serif;
 }
 
+.ginga-store-front {
+  background-image: url("{{ site.baseurl }}/images/DSC_0501.JPG");
+  background-size: cover;
+  background-position: 35% 5%;
+  height: 33vh;
+}
+
 .ginga-footbar {
   position: relative;
   min-height: 20px;
   border: 1px solid transparent;
   margin-top: 20px;
-}
-
-.ginga-store-front {
-  background-image: url("{{ site.baseurl }}/images/DSC_0501.JPG");
-  background-size: cover;
-  background-position: 35% 5%;
-  height: 50vh;
 }
