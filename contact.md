@@ -22,8 +22,7 @@ permalink: /contact/
       <h2>電話によるお問い合わせ</h2>
       <span style="font-size: 300%;"><strong>1-425-503-0322</strong></span>
       <div class="alert alert-info">
-        <p>電話番号の先頭の「1」は、ロング・ディスタンスを意味します。「1」が必要な場合があります。</p>
-        <p>また、GINGA Wirelessがあるアメリカの国番号は、「1」です。</p>
+        <p>先頭の「1」は、ロング・ディスタンスの意味で、必要なことがあります。また、アメリカの国番号は、「1」です。</p>
       </div>
 {%    include business-hours.html
 %}    </div>
