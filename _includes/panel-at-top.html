@@ -3,7 +3,7 @@
 {{ include.p.indent }}    <h3 class="panel-title">{{ include.p.title }}</h3>
 {{ include.p.indent }}  </div>
 {{ include.p.indent }}  {% if include.p.image
-{{ include.p.indent }}%}  <img src="{{ site.baseurl }}{{ include.p.image }}" class="img-responsive center-block" style="max-width: 400px;;" />
+{{ include.p.indent }}%}  <img src="{{ site.baseurl }}{{ include.p.image }}" class="img-responsive center-block" style="max-height: 300px;;" />
 {{ include.p.indent }}  {% endif
 {{ include.p.indent }}%}<ul class="list-group">
 {{ include.p.indent }}  {% for list_item in include.p.list
