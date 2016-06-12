@@ -55,7 +55,7 @@ permalink: /information/
           </div>
         </div>
       </div>
-      <article class="col-md-6">
+      <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="embed-responsive embed-responsive-4by3">
