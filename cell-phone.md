@@ -16,11 +16,11 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>携帯電話を使うには、次の３つをそろえる。</p>
             <ol>
-              <li>有効な電話回線<small>（プラン／電話番号）</small></li>
-              <li>携帯電話の端末<small>（機種）</small></li>
+              <li>電話回線</li>
+              <li>端末</li>
               <li>SIMカード</li>
             </ol>
-            <p>SIMカードを端末に入れて、その端末から電話プランを使う。</p>
+            <p>SIMカードを端末に入れて、その端末から回線を使う。</p>
             <p>これら3つがそろっていても、組み合わせによっては、使えない（詳しく &raquo;）。</p>
           </div>
         </div>
