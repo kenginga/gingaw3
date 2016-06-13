@@ -11,7 +11,7 @@ permalink: /cell-phone/
       <article class="col-sm-6 col-lg-3">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">携帯電話を使うのに必要なもの</h3>
+            <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
             <p>携帯電話を使うのに必要なものは、３つある。３つすべてそろわないといけない。</p>
