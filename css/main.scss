@@ -24,8 +24,6 @@ body,.tooltip,.popover {
   background-image: url("{{ site.baseurl }}/images/ginga-store-front.jpg");
   background-size: cover;
   background-position: 35% 5%;
-  height: 33vh;
-  transition: height 2s;  // avoid frequent changing height
 }
 
 .ginga-footbar {
