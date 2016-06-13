@@ -2,7 +2,7 @@
 layout: default
 title: GINGA Wireless / お問い合わせ
 nav_title: お問い合わせ
-nav_order: 5
+nav_order: 60
 permalink: /contact/
 ---
 <main>
