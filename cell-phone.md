@@ -32,12 +32,13 @@ permalink: /cell-phone/
           </div>
           <div class="panel-body">
             <p>回線を使うには、プランを選んで、開通する(Activate)。</p>
-            <p>お店で、プランを伝えると、開通したSIMカードを端末に入れてくれる。その場合、回線手数料(Activation Fee)やSIMカード代が必要になる。</p>
-            <p>端末をまだ持っていなければ、同時に端末を買うと安心。</p>
+            <p>お店では、開通して、SIMカードを端末に入れてくれる。その場合、回線手数料(Activation Fee)やSIMカード代が必要になる。</p>
+            <p>端末をまだ持っていなければ、同時に端末を買うと、確実に使えるので安心。</p>
             <p>電話番号について</p>
           </div>
         </div>
-      </article>      <article class="col-md-4">
+      </article>
+      <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">端末×SIMカード</h3>
