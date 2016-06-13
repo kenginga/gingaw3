@@ -7,7 +7,7 @@ permalink: /information/
 ---
 <main>
   <div class="container">
-    <div class="jumbotron ginga-store-front" style="height: 33vh; transition: height 2s;">
+    <div class="jumbotron ginga-store-front" style="height: 25vh">
     </div>
     <div class="row">
       <div class="col-md-6">
