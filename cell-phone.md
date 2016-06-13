@@ -16,9 +16,9 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>携帯電話を使うには、次の３つをそろえる。</p>
             <ol>
-              <li>電話回線</li>
-              <li>端末</li>
-              <li>SIMカード</li>
+              <li><strong>電話回線</strong></li>
+              <li><strong>端末</strong></li>
+              <li><strong>SIMカード</strong></li>
             </ol>
             <p>SIMカードを端末に入れて、その端末から回線を使う。その時、どの回線を使うかは、SIMカードで決まる。</p>
             <p>ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
@@ -26,6 +26,18 @@ permalink: /cell-phone/
         </div>
       </article>
       <article class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">電話回線の開通</h3>
+          </div>
+          <div class="panel-body">
+            <p>回線を使うには、プランを選んで、開通する(Activate)。</p>
+            <p>お店で、プランを伝えると、開通したSIMカードを端末に入れてくれる。その場合、回線手数料(Activation Fee)やSIMカード代が必要になる。</p>
+            <p>端末をまだ持っていなければ、同時に端末を買うと安心。</p>
+            <p>電話番号について</p>
+          </div>
+        </div>
+      </article>      <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">端末×SIMカード</h3>
