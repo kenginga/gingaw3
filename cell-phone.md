@@ -8,7 +8,7 @@ permalink: /cell-phone/
 <main>
   <div class="container">
     <div class="row">
-      <article class="col-sm-6 col-lg-3">
+      <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">使うのに必要なもの</h3>
@@ -25,7 +25,7 @@ permalink: /cell-phone/
           </div>
         </div>
       </article>
-      <article class="col-sm-6 col-lg-3">
+      <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">端末×SIMカード</h3>
@@ -33,13 +33,13 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>SIMカードによって、端末で使う回線が決まる。</p>
             <p>人によっては、一つの端末で、その時々で、複数のSIMカードを使い分ける。例えば：</p>
-            <dl>
-            <dt>アメリカにいる時</dt><dd>アメリカのSIMカード</dd>
-            <dt>日本に行ったら</dt><dd>日本のSIMカード</dd>
-            <dt>カナダに行ったら</dt><dd>カナダのSIMカード</dd>
+            <dl class="dl-horizontal">
+            <dt>アメリカにいる時</dt><dd>→アメリカのSIMカード</dd>
+            <dt>日本に行ったら</dt><dd>→日本のSIMカード</dd>
+            <dt>カナダに行ったら</dt><dd>→カナダのSIMカード</dd>
             </dl>
-            <p>そうすることで、自分や電話の相手の料金が安くなる。</p>
-            <p>逆に、一つのSIMカードを、複数の端末で使ってもいい。</p>
+            <p>そうすることで、自分や電話の相手の料金が安くなる。端末によっては、同時に2つのSIMカードが入る。</p>
+            <p>また、逆に、一つのSIMカードを、複数の端末で使ってもいい。</p>
           </div>
         </div>
       </article>
