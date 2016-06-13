@@ -11,7 +11,7 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">使うのに必要なもの</h3>
+            <h3 class="panel-title">必要なもの</h3>
           </div>
           <div class="panel-body">
             <p>携帯電話を使うには、次の３つをそろえる。</p>
@@ -21,7 +21,7 @@ permalink: /cell-phone/
               <li><strong>SIMカード</strong></li>
             </ol>
             <p>SIMカードを端末に入れて、その端末から回線を使う。その時、どの回線を使うかは、SIMカードで決まる。</p>
-            <p>ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
+            <p>ただし、これら3つがそろっていても、組み合わせによっては、使えないのでご注意を。</p>
           </div>
         </div>
       </article>
