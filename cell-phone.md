@@ -12,7 +12,7 @@ permalink: /cell-phone/
         <h3 class="panel-title">携帯電話を使うのに必要なもの</h3>
       </div>
       <div class="panel-body">
-        携帯電話を使うのに必要なもの３つ
+        携帯電話を使うのに必要なものは、３つある。３つすべてがないといけない。
         <ol>
           <li>有効な電話プラン（回線＝電話番号）</li>
           <li>携帯電話の端末（機種）</li>
