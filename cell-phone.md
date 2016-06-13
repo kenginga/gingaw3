@@ -34,26 +34,20 @@ permalink: /cell-phone/
             <p>回線は、選んだプランで開通すると使える。</p>
             <p>お店では、いろんな情報をお客様からきいて、開通処理をする。そして、開通したSIMカードを端末に入ると、電話が使えるようになる。その時に、回線手数料が発生する。</p>
             <p>端末をまだ持っていなければ、同時に端末を買うと、確実に使えるので安心。</p>
-            <p>電話番号について</p>
+            <p><a href="#about-phone-number">電話番号の決め方</a></p>
           </div>
         </div>
       </article>
-      <article class="col-md-4">
+      <article id="about-phone-number" class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">電話番号の決め方</h3>
           </div>
           <div class="panel-body">
             <p>回線の開通では、回線で使う電話番号を決める。大きく分けて、2通り。</p>
-            <dl class="dl-horizontal">
-              <dt>すでにアメリカの電話番号を持っている</dt><dd>→番号移行</dd>
-              <dt>新しい電話番号をつくる</dt><dd>→地域を選ぶ</dd>
-            </dl>
-            <p>すでにアメリカの電話番号を持っている場合、番号移行ができる。</p>
-            <p>新しい電話番号を決める場合には、次のどちらかの情報で電話番号の地域を選ぶ。</p>
             <ul>
-              <li><strong>エリアコード＋州・市</strong></li>
-              <li><strong>ZIPコード＋州・市</strong></li>
+              <li><strong>持っているアメリカの電話番号を移行する</strong></li>
+              <li><strong>新しい電話番号をつくる（地域を選ぶ）</strong></li>
             </ul>
           </div>
         </div>
