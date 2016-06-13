@@ -14,7 +14,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
-            <p>携帯電話を使うのに必要なものは、３つある。３つすべてそろわないといけない。</p>
+            <p>携帯電話を使うには、次の３つをそろえる。</p>
             <ol>
               <li>有効な電話回線<small>（プラン／電話番号）</small></li>
               <li>携帯電話の端末<small>（機種）</small></li>
