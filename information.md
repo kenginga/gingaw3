@@ -64,7 +64,7 @@ permalink: /information/
           </div>
         </div>
         <a href="{{ site.baseurl }}/images/GINGA-Wireless-Driving-Direction.pdf" download="GINGA-Wireless-Driving-Direction.pdf" class="btn btn-info">
-          印刷用の地図（PDF<img border="0" src="{{ site.baseurl }}/images/Adobe_PDF_file_icon_32x32.png" alt="">）をダウンロードする
+          印刷用の地図（PDF<img border="0" src="{{ site.baseurl }}/images/Adobe_PDF_file_icon_32x32.png" alt="">）をダウンロード
         </a>
       </article>
     </div>
