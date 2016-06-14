@@ -37,7 +37,7 @@ permalink: /cell-phone/
             <ol>
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
               <li><strong>持ってる番号をそのまま使いたい</strong><small>（移行）</small></li>
-            </ul>
+            </ol>
             <p>どちらの場合も、以下のような情報を用意しましょう<small>（実際に必要な情報は、電話会社によって異なる）</small>。</p>
             <small>
               <ul>
