@@ -11,7 +11,7 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">必要なもの</h3>
+            <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
             <p>携帯電話を使うには、次の３つをそろえる。</p>
@@ -28,12 +28,18 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">電話回線の開通</h3>
+            <h3 class="panel-title">携帯電話・回線の開通</h3>
           </div>
           <div class="panel-body">
-            <p>回線は、選んだプランで開通すると使える。</p>
-            <p>お店では、いろんな情報をお客様からきいて、開通処理をする。そして、開通したSIMカードを端末に入れると、電話が使えるようになる。その時に、回線手数料が発生する。</p>
-            <p>端末をまだ持っていなければ、開通と同時に端末を買うと、確実に使えるので安心。</p>
+            <p>電話回線は、開通処理をして、使えるようになる。</p>
+            <p>開通処理には、いくつかの情報が必要。必要な情報は、電話会社によって異なるが、以下のようなもの。</p>
+            <ul>
+              <li>携帯電話プラン</li>
+              <li>支払い（カード）情報</li>
+              <li>利用者情報（氏名・住所・連絡先等）</li>
+              <li>番号移行に必要な情報（移行時のみ）</li>
+              <li>使用するSIMカード<small>（お店が用意している）</small></li>
+            </ul>
           </div>
         </div>
       </article>
