@@ -20,6 +20,14 @@ body,.tooltip,.popover {
     sans-serif;
 }
 
+.font-double {
+  font-size: 200%;
+}
+
+.ginga-highlighter-pen {
+  background: linear-gradient(transparent 60%, #ffff66 60%);
+}
+
 .ginga-store-front {
   background-image: url("{{ site.baseurl }}/images/ginga-store-front.jpg");
   background-size: cover;
