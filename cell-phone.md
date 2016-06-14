@@ -21,7 +21,7 @@ permalink: /cell-phone/
               <li><strong>SIMカード</strong></li>
             </ol>
             <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
-            <p>ただし、これら3つがそろっていても、組み合わせによっては、使えないのでご注意を。</p>
+            <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
           </div>
         </div>
       </article>
@@ -36,8 +36,8 @@ permalink: /cell-phone/
             <small>
               <ul>
                 <li>利用する携帯電話プラン</li>
-                <li>利用者情報（氏名・生年月日・PIN等）</li>
-                <li>支払い（カード）情報</li>
+                <li>利用者情報<small>（氏名・生年月日・PIN等）</small></li>
+                <li>支払い<small>（カード）</small>情報</li>
                 <li>希望の地域／エリアコード（新規時）</li>
                 <li>番号移行に必要な情報（移行時）</li>
                 <li>使用するSIMカード<small>（お店が用意している）</small></li>
