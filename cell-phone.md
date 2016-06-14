@@ -16,9 +16,9 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>携帯電話を使うのに、３つそろえましょう。</p>
             <ol>
-              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%); position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 30px; left: 120px;"></span></strong></li>
-              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">端末</span></strong></li>
-              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">SIMカード</span></strong></li>
+              <li><strong><span class="font-double ginga-highlighter-pen" style="position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 30px; left: 120px;"></span></strong></li>
+              <li><strong><span class="font-double ginga-highlighter-pen">端末</span></strong></li>
+              <li><strong><span class="font-double ginga-highlighter-pen">SIMカード</span></strong></li>
             </ol>
             <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
             <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
@@ -32,6 +32,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
+            <p class="font-double ginga-highlighter-pen"><strong>回線＝あなたの電話番号</strong></p>
             <p>電話回線は、開通処理をして、使えるようになる。</p>
             <p>開通のために、以下のような情報を用意する<small>（実際に必要な情報は、電話会社によって異なる）</small>。</p>
             <small>
