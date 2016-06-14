@@ -39,7 +39,7 @@ permalink: /cell-phone/
                 <li>利用者情報<small>（氏名・生年月日・PIN等）</small></li>
                 <li>支払い<small>（カード）</small>情報</li>
                 <li>希望の地域／エリアコード（新規時）</li>
-                <li>番号移行に必要な情報（移行時）</li>
+                <li><a href="#number-porting">番号移行に必要な情報（移行時）</a></li>
                 <li>使用するSIMカード<small>（お店が用意している）</small></li>
                 <li>使用する端末<small>（必要があれば購入／レンタル）</small></li>
               </ul>
