@@ -28,30 +28,49 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・回線の開通</h3>
+            <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
             <p>電話回線は、開通処理をして、使えるようになる。</p>
             <p>開通処理には、いくつかの情報が必要。必要な情報は、電話会社によって異なるが、以下のようなもの。</p>
-            <ul>
-              <li>利用する携帯電話プラン</li>
-              <li>利用者情報（氏名・生年月日・PIN等）</li>
-              <li>支払い（カード）情報</li>
-              <li>希望の地域／エリアコード（新規時）</li>
-              <li>番号移行に必要な情報（移行時）</li>
-              <li>使用するSIMカード<small>（お店が用意している）</small></li>
-              <li>使用する端末<small>（必要があれば購入／レンタル）</small></li>
-            </ul>
+            <small>
+              <ul>
+                <li>利用する携帯電話プラン</li>
+                <li>利用者情報（氏名・生年月日・PIN等）</li>
+                <li>支払い（カード）情報</li>
+                <li>希望の地域／エリアコード（新規時）</li>
+                <li>番号移行に必要な情報（移行時）</li>
+                <li>使用するSIMカード<small>（お店が用意している）</small></li>
+                <li>使用する端末<small>（必要があれば購入／レンタル）</small></li>
+              </ul>
+            </small>
           </div>
         </div>
       </article>
+      <article class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">携帯電話・回線の開通 (2)</h3>
+          </div>
+          <div class="panel-body">
+            <p>Q. 開通処理にかかる時間は？<br>
+            A. 開通処理だけなら15分程度ですが、多くの場合、端末の設定を同時に行うので、30分～1時間程度かかります。電話番号の移行が完了するのには、もっと長くかかる場合があります。</p>
+            <p>Q. 開通にかかる費用は？<br>
+            A. 初期費用として、開通手数料（通常$35）と別途SIMカード代が必要になる場合があります。割引がある場合もありますので、詳しくは、お問い合わせください。</p>
+            
+            
+          </div>
+        </div>
+      </article>
+    </div>
+    <div class="row">
       <article id="number-porting" class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">携帯電話・番号の移行</h3>
           </div>
           <div class="panel-body">
-            <p>すでにアメリカの電話番号を別の電話会社で使っている場合、番号を移行することで、電話会社が変わっても、今までの電話番号を使い続けられる。<small>（Wikipedia:番号ポータビリティ）</small></p>
+            <p>すでにアメリカの電話番号を使っている場合、番号を移行することで、今までの電話番号を使い続けられる。</p>
             <p>ただし、移行するためには、以下の条件を満たさないといけない。</p>
             <ul>
               <li>【重要】元の電話会社で解約していない</li>
