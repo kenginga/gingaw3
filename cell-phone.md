@@ -16,9 +16,9 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>携帯電話を使うのに、３つそろえましょう。</p>
             <ol>
-              <li><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 30%, #fbd 30%);">電話回線</span></li>
-              <li><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 30%, #fbd 30%);">端末</span></li>
-              <li><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 30%, #fbd 30%);">SIMカード</span></li>
+              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">電話回線</span></strong></li>
+              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">端末</span></strong></li>
+              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">SIMカード</span></strong></li>
             </ol>
             <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
             <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
