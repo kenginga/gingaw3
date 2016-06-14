@@ -16,7 +16,7 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>携帯電話を使うのに、３つそろえましょう。</p>
             <ol>
-              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%); position: relative">電話回線<img width="100" height="50" href="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 10px; left: 10px;"></span></strong></li>
+              <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%); position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 10px; left: 10px;"></span></strong></li>
               <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">端末</span></strong></li>
               <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">SIMカード</span></strong></li>
             </ol>
