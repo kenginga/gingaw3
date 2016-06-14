@@ -32,16 +32,16 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
-            <p>電話回線は、開通処理をして、使えるようになる。</p>
+            <p>電話回線は、開通すると、使えるようになる。お店が開通してくれる。</p>
             <p><strong><span class="font-150 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
             <ol>
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
               <li><strong>持ってる番号をそのまま使いたい</strong><small>（移行）</small></li>
             </ol>
-            <p>どちらの場合も、以下のような情報を用意しましょう<small>（実際に必要な情報は、電話会社によって異なる）</small>。</p>
+            <p>どちらの場合も、以下のような情報を用意しましょう<i class="icon ion-thumbsup"></i><small>（実際に必要な情報は、電話会社によって異なる）</small></p>
             <small>
               <ul>
-                <li>利用する携帯電話プラン</li>
+                <li>選んだ携帯電話プラン</li>
                 <li>利用者情報<small>（氏名・生年月日・PIN等）</small></li>
                 <li>支払い<small>（カード）</small>情報</li>
                 <li>希望の地域／エリアコード（新規時）</li>
