@@ -33,10 +33,10 @@ permalink: /cell-phone/
           </div>
           <div class="panel-body">
             <p>電話回線は、開通処理をして、使えるようになる。</p>
-            <p><strong><span class="font-200 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
-            <ul>
-              <li><strong>新しい電話番号が欲しい<small>（新規）</small></strong></li>
-              <li><strong>持ってる番号をそのまま使いたい<small>（移行）</small></strong></li>
+            <p><strong><span class="font-150 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
+            <ol>
+              <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
+              <li><strong>持ってる番号をそのまま使いたい</strong><small>（移行）</small></li>
             </ul>
             <p>どちらの場合も、以下のような情報を用意しましょう<small>（実際に必要な情報は、電話会社によって異なる）</small>。</p>
             <small>
