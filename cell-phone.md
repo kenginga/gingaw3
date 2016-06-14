@@ -20,8 +20,9 @@ permalink: /cell-phone/
               <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">端末</span></strong></li>
               <li><strong><span style="font-size: 200%; font-size: 200%; background: linear-gradient(transparent 60%, #ffff66 60%);">SIMカード</span></strong></li>
             </ol>
-            <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
+            <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。この3つ。</p>
             <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
+            <p>お店に行けば、もちろん、全部ある。安心で確実。</p>
           </div>
         </div>
       </article>
