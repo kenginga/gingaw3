@@ -68,19 +68,19 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・番号の移行</h3>
           </div>
           <div class="panel-body">
-            <p>すでにアメリカの電話番号を使っている場合、番号を移行することで、今までの電話番号を使い続けられる。</p>
+            <p>すでにアメリカの電話番号を使っている場合、新しい電話会社にその番号を移行することで、同じ番号を使い続けられる。</p>
             <p>ただし、移行するためには、以下の条件を満たさないといけない。</p>
             <ul>
-              <li>【重要】元の電話会社で解約していないこと</li>
+              <li>【重要】元の電話会社で解約していない</li>
               <li>契約期間の途中である場合、移行することで発生する早期解約手数料（ETF)を理解している</li>
               <li>元の電話会社が移行すること(Port-out)を許している</li>
               <li>
-                <a data-toggle="collapse" href="#lg11">
+                <a data-toggle="collapse" href="#number-porting-info">
                   移行に必要な情報がそろっている
                 </a>
-                <div id="lg11" class="panel-collapse collapse">
+                <div id="number-porting-info" class="panel-collapse collapse">
                   <div class="panel-body">
-                    <ul class="list-group">
+                    <ul>
                       <li>移行する電話番号</li>
                       <li>アカウント番号</li>
                       <li>パスワードまたはPIN（SSN下4桁などの数字）</li>
@@ -91,7 +91,7 @@ permalink: /cell-phone/
                 </div>
               </li>
             </ul>
-            <p>必要な情報は、元の電話会社ごとに異なる。詳しくは、電話会社へ電話して確認するのが確実。必要な情報が請求書(Bill)に記載されている場合もある。多くの場合、以下のような情報が必要</p>
+            <p><small>移行に必要な情報は、元の電話会社によって異なる。必要な情報が請求書(Bill)に記載されている場合もあるが、電話会社へ電話して確認するのが確実。</small></p>
           </div>
         </div>
       </article>
