@@ -50,6 +50,8 @@ permalink: /cell-phone/
                 <li>使用する端末<small>（必要があれば購入／レンタル）</small></li>
               </ul>
             </small>
+            <a href="" class="btn btn-info">プランを選ぶ</a>
+            <a href="" class="btn btn-info">機種を選ぶ</a>
           </div>
         </div>
       </article>
