@@ -14,15 +14,15 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
-            <p>携帯電話を使うのに、３つそろえましょう。</p>
+            <p>携帯電話を使うのに、３つそろえましょう<i class="icon ion-thumbsup"></i></p>
             <ol>
               <li><strong><span class="font-200 ginga-highlight" style="position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 30px; left: 120px;"></span></strong></li>
               <li><strong><span class="font-200 ginga-highlight">端末</span></strong></li>
               <li><strong><span class="font-200 ginga-highlight">SIMカード</span></strong></li>
             </ol>
             <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
-            <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない<i class="icon ion-sad-outline"></i>。</p>
-            <p>お店でそろえたら、一番確実で安心<i class="icon ion-ios-heart"></i>。</p>
+            <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない<i class="icon ion-sad-outline"></i></p>
+            <p>お店でそろえたら、一番確実で安心<i class="icon ion-ios-heart"></i></p>
           </div>
         </div>
       </article>
