@@ -14,11 +14,11 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
-            <p>携帯電話を使うには、次の３つをそろえる。</p>
+            <p>携帯電話を使うのに、３つそろえましょう。</p>
             <ol>
-              <li><strong>電話回線</strong></li>
-              <li><strong>端末</strong></li>
-              <li><strong>SIMカード</strong></li>
+              <li class="ginga-3d-text text-info" style="font-size: 200%">電話回線</li>
+              <li class="ginga-3d-text text-info" style="font-size: 200%">端末</li>
+              <li class="ginga-3d-text text-info" style="font-size: 200%">SIMカード</li>
             </ol>
             <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
             <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない。</p>
