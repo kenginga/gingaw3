@@ -32,7 +32,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
-            <p>電話回線は、開通すると、使えるようになる。お店で開通してもらおう<i class="icon ion-happy-outline"></i></p>
+            <p>電話回線は、開通すると、使えるようになる。お店で開通してもらいましょう<i class="icon ion-happy-outline"></i></p>
             <p><strong><span class="font-150 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
             <ol>
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
