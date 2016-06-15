@@ -203,7 +203,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">SIMロックとは</h3>
           </div>
           <div class="panel-body">
-            <p>電話会社ブランドの機種を購入した場合、その端末には、SIMロックがかかっていることがある。</p>
+            <p>電話会社から機種を購入した場合、その端末には、SIMロックがかかっていることが多い。</p>
             <p>ロックがかかっていると、その電話会社が許すSIMカードしか使えない。通常、他社のSIMカードは、使えない。</p>
             <dl class="dl-horizontal">
               <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>はず</small></dd>
