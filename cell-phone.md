@@ -210,7 +210,21 @@ permalink: /cell-phone/
               <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高い<small>（かも）</small></dd>
             </dl>
             <p>一定の利用期間経過後に電話会社へ依頼すると、ロックを解除してくれることがある<i class="icon ion-happy-outline"></i> その際、「アメリカ国外<small>（日本）</small>のSIMカードを使う」といった理由を伝えるとよい。特に、契約期間が満了している場合には、理由なしで解除される可能性が高い。</p>
-            <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された<small>（次へ、つづく）。</small></p>
+            <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された。</p>
+          </div>
+        </div>
+      </article>
+      <article class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">SIMロックフリー(Unlock)機種</h3>
+          </div>
+          <div class="panel-body">
+            <p>電話会社がロックをかけている機種と対象に、ロックがかかっていない機種が売られている。日本ではSIMロックフリー、アメリカではアンロックと呼ばれる。</p>
+            <p>SIMカードに制限がないので、自由に電話会社<small>（プラン）</small>を選べる<i class="icon ion-happy-outline"></i></p>
+            <p>ロックされた機種より割高だとしても、利用料金が安くなることで、トータルで考えると安くなることが多い<i class="icon ion-happy-outline"></i></p>
+            <p class="text-warning">しかし、必ずしも、選んだ電話会社で使えるとは限らない<i class="icon ion-sad-outline"></i> 使いたい電話会社の周波数に対応しているかどうか、ロックフリー機種を購入する際には、慎重に確認しないといけない。</p>
+            同じモデルでも細かい型番によって対応周波数が異なっている場合や、通話やテキストは問題なく使えてもデータ通信の速度が非常に遅い場合など、落とし穴が多い。「アメリカ対応」「日本対応」といった大雑把な説明には注意が必要。</p>
           </div>
         </div>
       </article>
