@@ -94,7 +94,7 @@ permalink: /cell-phone/
               </li>
               <li>
                 <a data-toggle="collapse" href="#unpaid-at-original">
-                  <i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない
+                  <i class="icon ion-ios-checkmark-outline"></i> 未払い状態にしない
                 </a>
                 <div id="unpaid-at-original" class="panel-collapse collapse">
                   <div class="panel-body">
@@ -114,7 +114,7 @@ permalink: /cell-phone/
               </li>
               <li>
                 <a data-toggle="collapse" href="#number-porting-info">
-                  <i class="icon ion-ios-checkmark-outline"></i> 移行に必要な情報を正確にそろえる
+                  <i class="icon ion-ios-checkmark-outline"></i> 必要な情報を正確にそろえる
                 </a>
                 <div id="number-porting-info" class="panel-collapse collapse">
                   <div class="panel-body">
@@ -150,9 +150,9 @@ permalink: /cell-phone/
             <p>移行が完了するまでの間は：</p>
             <small>
               <ul>
-                <li>元の電話会社と、新しい方の両方で課金される</li>
-                <li>新しい回線で通話の着信ができないなどの制限あり</li>
-                <li>通話が古い電話へ着信するかも<small>（古い方も持つ）</small></li>
+                <li>古い方と新しい方の両方で課金される</li>
+                <li>通話着信ができないなどの制限</li>
+                <li>古い電話へ着信するかも<small>（古い方も持つ）</small></li>
               </ul>
             </small>
             <p class="text-warning"><small>最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></small></p>
