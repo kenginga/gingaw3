@@ -38,16 +38,16 @@ permalink: /cell-phone/
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
               <li><strong>持ってる番号をそのまま使いたい</strong><small>（移行）</small></li>
             </ol>
-            <p>どちらの場合も、以下のような情報を用意しましょう<i class="icon ion-thumbsup"></i><small>（実際に必要な情報は、電話会社によって異なる）</small></p>
+            <p>どちらの場合も、以下のような情報を用意します。<small>※実際に必要な情報は、電話会社によって異なる</small></p>
             <small>
               <ul>
                 <li>選んだ携帯電話プラン</li>
-                <li>利用者情報<small>（氏名・生年月日・PIN等）</small></li>
-                <li>支払い<small>（カード）</small>情報</li>
+                <li>利用者情報（氏名・生年月日・PIN等）</li>
+                <li>支払い（カード）情報</li>
                 <li>希望の地域／エリアコード（新規時）</li>
                 <li><a href="#number-porting">番号移行に必要な情報（移行時）</a></li>
-                <li>使用するSIMカード<small>（お店が用意している）</small></li>
-                <li>使用する端末<small>（必要があれば購入／レンタル）</small></li>
+                <li>使用するSIMカード（お店が用意している）</li>
+                <li>使用する端末（必要があれば購入／レンタル）</li>
               </ul>
             </small>
             <a href="" class="btn btn-info">プランを選ぶ</a>
@@ -77,14 +77,13 @@ permalink: /cell-phone/
           </div>
           <div class="panel-body">
             <p>すでにアメリカの電話番号を使っている場合、新しい電話会社にその番号を移行することで、同じ番号を使い続けられる。</p>
-            <p>ただし、移行するためには、以下の条件を満たさないといけない。</p>
-            <ul>
-              <li>【重要】元の電話会社で解約していない</li>
-              <li>契約期間の途中である場合、移行することで発生する早期解約手数料（ETF)を理解している</li>
-              <li>元の電話会社が移行すること(Port-out)を許している</li>
+            <p class="text-warning">ただし、移行の依頼をしても、移行されないことがある<i class="icon ion-sad-outline"></i></p>       <p>うまく移行できるように：</p>
+            <ul style="list-style-type: none">
+              <li><i class="icon ion-ios-checkmark-outline"></i>【重要】元の電話会社で解約していない</li>
+              <li><i class="icon ion-ios-checkmark-outline"></i>契約期間の途中である場合、<small>移行することで発生する</small>早期解約手数料（ETF)を理解する</li>
               <li>
                 <a data-toggle="collapse" href="#number-porting-info">
-                  移行に必要な情報がそろっている
+                  <i class="icon ion-ios-checkmark-outline"></i>移行に必要な情報をそろえる
                 </a>
                 <div id="number-porting-info" class="panel-collapse collapse">
                   <div class="panel-body">
@@ -94,11 +93,13 @@ permalink: /cell-phone/
                       <li>パスワード<small>（SSN下4桁など）</small></li>
                       <li>登録している契約者氏名／住所</li>
                     </ul>
+                    <p>
+                      <small>移行に必要な情報は、元の電話会社によって異なる。必要な情報が請求書(Bill)に記載されている場合もあるが、電話会社へ電話して確認するのが確実。</small>
+                    </p>
                   </div>
                 </div>
               </li>
             </ul>
-            <p><small>移行に必要な情報は、元の電話会社によって異なる。必要な情報が請求書(Bill)に記載されている場合もあるが、電話会社へ電話して確認するのが確実。</small></p>
           </div>
         </div>
       </article>
