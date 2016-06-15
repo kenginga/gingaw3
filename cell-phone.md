@@ -146,12 +146,12 @@ permalink: /cell-phone/
               <li>7営業日<small>（情報に誤りがあるなど）</small></li>
               <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
             </ol>
-            <p>移行が完了するまでの間：</p>
-            <ol>
+            <p>移行が完了するまでの間は：</p>
+            <ul>
               <li>元の電話会社と、新しい電話会社の両方で課金される</li>
               <li>新しい回線で通話の着信ができないなどの制限があるかも</li>
               <li>通話が古い回線へ着信するかも<small>（古い方・新しい方の2台を持つ）</small></li>
-            </ol>
+            </ul>
             <p>最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></p>
           </div>
         </div>
