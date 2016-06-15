@@ -159,6 +159,8 @@ permalink: /cell-phone/
           </div>
         </div>
       </article>
+    </div>
+    <div class="row">
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -168,9 +170,9 @@ permalink: /cell-phone/
             <p>回線が開通すると、回線に結び付いたSIMカードが使えるようになる。回線を使いたい端末に、SIMカードを入れる。</p>
             <p>人によっては、複数の回線をもっていて、その時々で、SIMカードを使い分ける。例えば：</p>
             <dl class="dl-horizontal">
-            <dt>アメリカにいる時</dt><dd>→アメリカのSIM</dd>
-            <dt>日本に行ったら</dt><dd>→日本のSIM</dd>
-            <dt>カナダに行ったら</dt><dd>→カナダのSIM</dd>
+              <dt>アメリカにいる時</dt><dd>→アメリカのSIM</dd>
+              <dt>日本に行ったら</dt><dd>→日本のSIM</dd>
+              <dt>カナダに行ったら</dt><dd>→カナダのSIM</dd>
             </dl>
             <p>こうすると、自分や相手の料金が安くなる。端末によっては、同時に2つのSIMカードが入って、切り替えが簡単。</p>
             <p>逆に、一つのSIMカードを、複数の端末で使ってもいい。自由にSIMカードと端末を組み合わせて使うことができる<i class="icon ion-happy-outline"></i></p>
@@ -190,11 +192,27 @@ permalink: /cell-phone/
               <li>ナノSIM</li>
             </ul>
             <p>標準SIMが一番大きく、ナノSIMが一番小さい。つまり、標準SIM＞マイクロSIM＞ナノSIM。</p>
-            <p>端末本体の入れられる大きさが決まっているので、それにあったSIMカードを使う。SIMカードの大きさが異なる端末を使う場合には、小さい方のサイズのSIMカードとアダプタを組み合わせる。</p>
-            <p>機種変更などで、小さいサイズのSIMカードが必要なときは、お店に相談するとよい<i class="icon ion-happy-outline"></i></p>
+            <p>機種ごとに入れられる大きさが決まっているので、それにあったSIMカードを使う。SIMカードの大きさが異なる複数機種を使う場合には、小さいサイズのSIMカードとアダプタを組み合わせる。</p>
+            <p>機種変更などで、別のサイズのSIMカードが必要なときは、お店に相談するとよい<i class="icon ion-happy-outline"></i></p>
           </div>
         </div>
       </article>
-    </div>
+      <article class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">SIMロックとは</h3>
+          </div>
+          <div class="panel-body">
+            <p>電話会社ブランドの機種を購入した場合、その端末には、SIMロックがかかっていることがある。</p>
+            <p>ロックがかかっていると、その電話会社が許すSIMカードしか使えない。通常、他社のSIMカードは、使えない。</p>
+            <dl class="dl-horizontal">
+              <dt>SIMロックの利点</dt><dd>→通常、端末価格が安い</dd>
+              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限</dd>
+            </dl>
+            <p>電話会社へ電話をすると、ロックを解除してくれることがある。「その際、アメリカ国外のSIMカードを使う」といった理由を伝えるとよい。特に、契約期間が終了している場合には、理由なしで解除される可能性が高い。</p>
+            <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された。ロックを解除すると、例えば、アメリカのSIMカードが使えるようになる。ただし、アメリカの周波数に対応した機種でないと、アメリカで使うことはできない。通話はできるけど、データ通信の速度が非常に遅い（2G速度）といったこともある。</p>
+          </div>
+        </div>
+      </article>    </div>
   </div>
 </main>
