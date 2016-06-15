@@ -32,7 +32,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
-            <p>電話回線は、開通すると、使えるようになる。お店で開通してもらうとよい<i class="icon ion-happy-outline"></i></p>
+            <p>電話回線は、開通すると、使えるようになる。複雑なので、お店で開通してもらうと間違いない<i class="icon ion-happy-outline"></i></p>
             <p><strong><span class="font-150 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
             <ol>
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
@@ -72,9 +72,9 @@ permalink: /cell-phone/
       </article>
     </div>
     <div class="row">
-      <article id="number-porting" class="col-md-4">
+      <article class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div id="number-porting" class="panel-heading">
             <h3 class="panel-title">携帯電話・番号の移行 (1)</h3>
           </div>
           <div class="panel-body">
