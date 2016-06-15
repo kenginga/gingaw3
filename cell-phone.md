@@ -144,8 +144,8 @@ permalink: /cell-phone/
             <ol>
               <li>その場で<small>（1時間程で）</small>完了<i class="icon ion-happy-outline"></i></li>
               <li>24営業時間以内に完了<small>（正常）</small></li>
-              <li>7営業日以内に完了<small>（情報に誤りがあるなど）</small></li>
-              <li>7営業日より長い<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
+              <li>7営業日で完了<small>（情報に誤りなど）</small></li>
+              <li>それ以上<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
             </ol>
             <p>移行が完了するまでの間は：</p>
             <small>
