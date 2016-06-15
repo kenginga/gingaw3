@@ -76,15 +76,33 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・番号の移行 (1)</h3>
           </div>
           <div class="panel-body">
-            <p>すでにアメリカの電話番号を使っている場合、新しい電話会社にその番号を移行することで、同じ番号を使い続けられる。</p>
+            <p>すでにアメリカの電話番号を使っている場合、新しい電話会社にその番号を移行することで、同じ番号を使い続けられる<i class="icon ion-happy-outline"></i></p>
             <p class="text-warning">ただし、移行の依頼をしても、移行されないことや移行に長い時間がかかることがある<i class="icon ion-sad-outline"></i></p>
             <p>うまく移行できるように：</p>
             <ul style="list-style-type: none">
-              <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で解約しない</li>
-              <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない</li>
               <li>
                 <a data-toggle="collapse" href="#understand-etf">
-                  <i class="icon ion-ios-checkmark-outline"></i> 早期解約手数料（ETF)を理解する
+                  <i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で解約しない
+                </a>
+                <div id="understand-etf" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    移行が完了すると、自動的に解約される。特に元の電話会社へ知らせる必要はない。
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a data-toggle="collapse" href="#understand-etf">
+                  <i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない
+                </a>
+                <div id="understand-etf" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    元の電話会社で利用可能な状態でないと、移行が許されないことがある。また、移行には何日かかかる恐れがある。元の電話会社の残りの利用期間が短いと、移行処理の途中で未払いになるかも。移行には、余裕を持ちましょう。
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a data-toggle="collapse" href="#understand-etf">
+                  <i class="icon ion-ios-checkmark-outline"></i> 早期解約手数料(ETF)を理解する
                 </a>
                 <div id="understand-etf" class="panel-collapse collapse">
                   <div class="panel-body">
@@ -105,12 +123,38 @@ permalink: /cell-phone/
                       <li>登録している契約者氏名／住所</li>
                     </ul>
                     <p>
-                      <small>移行に必要な情報は、元の電話会社によって異なる。必要な情報が請求書(Bill)に記載されている場合もあるが、電話会社へ電話して確認するのが確実。</small>
+                      <small>移行に必要な情報は、元の電話会社によって異なる。移行時に、お店に過去の請求書(Bill)を持っていくと、役立つかも。</small>
                     </p>
                   </div>
                 </div>
               </li>
             </ul>
+          </div>
+        </div>
+      </article>
+      <article id="number-porting" class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">携帯電話・番号の移行 (2)</h3>
+          </div>
+          <div class="panel-body">
+            <p>電話番号の移行にかかる時間は、「24営業時間」とされているが、実際には、まちまちで予測できない。</p>
+            <ol>
+              <li>その場で<small>（1時間以内に）</small>完了する<i class="icon ion-happy-outline"></i></li>
+              <li>当日中に完了する</li>
+              <li>24営業時間で完了する（正常）</li>
+              <li>7営業日（情報に誤りがあるなど）</li>
+              <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i>【異常事態】</li>
+            </ol>
+            <p>移行が完了するまでの間：</p>
+            <ol>
+              <li>元の電話会社と、新しい電話会社の両方で課金される</li>
+              <li></li>
+              <li>24営業時間で完了する（正常）</li>
+              <li>7営業日（情報に誤りがあるなど）</li>
+              <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i>【異常事態】</li>
+            </ol>
+            
           </div>
         </div>
       </article>
