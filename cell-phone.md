@@ -14,7 +14,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・必要なもの</h3>
           </div>
           <div class="panel-body">
-            <p>携帯電話を使うのに、３つそろえましょう<i class="icon ion-thumbsup"></i></p>
+            <p>携帯電話を使うには、次の３つをそろえる。</p>
             <ol>
               <li><strong><span class="font-200 ginga-highlight" style="position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 30px; left: 120px;"></span></strong></li>
               <li><strong><span class="font-200 ginga-highlight">端末</span></strong>（機種）</li>
@@ -32,13 +32,13 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
-            <p>電話回線は、開通すると、使えるようになる。お店で開通してもらいましょう<i class="icon ion-happy-outline"></i></p>
+            <p>電話回線は、開通すると、使えるようになる。お店で開通してもらうとよい<i class="icon ion-happy-outline"></i></p>
             <p><strong><span class="font-150 ginga-highlight">回線＝あなたの電話番号</span></strong></p>
             <ol>
               <li><strong>新しい電話番号が欲しい</strong><small>（新規）</small></li>
               <li><strong>持ってる番号をそのまま使いたい</strong><small>（移行）</small></li>
             </ol>
-            <p>どちらの場合も、以下のような情報を用意します。<small>※実際に必要な情報は、電話会社によって異なる</small></p>
+            <p>どちらの場合も、以下のような情報を用意する。<small>※実際に必要な情報は、電話会社によって異なる</small></p>
             <small>
               <ul>
                 <li>選んだ携帯電話プラン</li>
@@ -165,15 +165,33 @@ permalink: /cell-phone/
             <h3 class="panel-title">端末×SIMカード</h3>
           </div>
           <div class="panel-body">
-            <p>SIMカードによって、端末で使う回線が決まる。</p>
-            <p>人によっては、その時々で、複数のSIMカードを使い分ける。例えば：</p>
+            <p>回線が開通すると、回線に結び付いたSIMカードが使えるようになる。SIMカードによって、端末で使う回線が決まる。</p>
+            <p>人によっては、複数の回線をもっていて、その時々で、SIMカードを使い分ける。例えば：</p>
             <dl class="dl-horizontal">
             <dt>アメリカにいる時</dt><dd>→アメリカのSIM</dd>
             <dt>日本に行ったら</dt><dd>→日本のSIM</dd>
             <dt>カナダに行ったら</dt><dd>→カナダのSIM</dd>
             </dl>
-            <p>こうすると、自分や相手の料金が安くなる。端末によっては、同時に2つのSIMカードが入る。</p>
-            <p>また、逆に、一つのSIMカードを、複数の端末で使ってもいい。</p>
+            <p>こうすると、自分や相手の料金が安くなる。端末によっては、同時に2つのSIMカードが入って、切り替えが簡単。</p>
+            <p>逆に、一つのSIMカードを、複数の端末で使ってもいい。自由にSIMカードと端末を組み合わせて使うことができる。</p>
+          </div>
+        </div>
+      </article>
+      <article class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">SIMカードの大きさ</h3>
+          </div>
+          <div class="panel-body">
+            <p>SIMカードには、3種類の大きさがある。</p>
+            <ul>
+              <li>標準SIM</li>
+              <li>マイクロSIM</li>
+              <li>ナノSIM</li>
+            </ul>
+            <p>標準SIMが一番大きく、ナノSIMが一番小さい。つまり、標準SIM＞マイクロSIM＞ナノSIM。</p>
+            <p>端末本体の入れられる大きさが決まっているので、それにあったSIMカードを使う。SIMカードの大きさが異なる端末を使う場合には、小さい方のサイズのSIMカードとアダプタを組み合わせる。</p>
+            <p>機種変更などで、小さいサイズのSIMカードが必要なときは、お店に相談するとよい<i class="icon ion-happy-outline"></i></p>
           </div>
         </div>
       </article>
