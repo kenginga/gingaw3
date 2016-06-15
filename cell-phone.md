@@ -73,17 +73,28 @@ permalink: /cell-phone/
       <article id="number-porting" class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・番号の移行</h3>
+            <h3 class="panel-title">携帯電話・番号の移行 (1)</h3>
           </div>
           <div class="panel-body">
             <p>すでにアメリカの電話番号を使っている場合、新しい電話会社にその番号を移行することで、同じ番号を使い続けられる。</p>
-            <p class="text-warning">ただし、移行の依頼をしても、移行されないことがある<i class="icon ion-sad-outline"></i></p>       <p>うまく移行できるように：</p>
+            <p class="text-warning">ただし、移行の依頼をしても、移行されないことや移行に長い時間がかかることがある<i class="icon ion-sad-outline"></i></p>
+            <p>うまく移行できるように：</p>
             <ul style="list-style-type: none">
-              <li><i class="icon ion-ios-checkmark-outline"></i>【重要】元の電話会社で解約していない</li>
-              <li><i class="icon ion-ios-checkmark-outline"></i>契約期間の途中である場合、<small>移行することで発生する</small>早期解約手数料（ETF)を理解する</li>
+              <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で解約しない</li>
+              <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない</li>
               <li>
                 <a data-toggle="collapse" href="#number-porting-info">
-                  <i class="icon ion-ios-checkmark-outline"></i>移行に必要な情報をそろえる
+                  <i class="icon ion-ios-checkmark-outline"></i> 早期解約手数料（ETF)を理解する
+                </a>
+                <div id="number-porting-info" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    元の電話会社で、契約期間の途中であると、移行することで早期解約手数料(ETF - Early Termination Fee)が発生する場合があります。
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a data-toggle="collapse" href="#number-porting-info">
+                  <i class="icon ion-ios-checkmark-outline"></i> 移行に必要な情報を正確にそろえる
                 </a>
                 <div id="number-porting-info" class="panel-collapse collapse">
                   <div class="panel-body">
