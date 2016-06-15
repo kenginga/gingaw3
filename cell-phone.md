@@ -66,7 +66,7 @@ permalink: /cell-phone/
             <p><span class="text-info">Q. 開通にかかる費用は？</span><br>
             A. 初期費用として、通常、開通手数料（～$35）やSIMカード代がかかります。その時々で、各種割引のある場合がありますので、詳しくは、お問い合わせください。</p>
             <p><span class="text-info">Q. 電話を利用する本人でなくても手続きができる？</span><br>
-            A. 電話回線のお申し込みは、携帯電話を利用する本人でなくても構いません。ただし、<strong>18歳以上</strong>の方がする必要があります。</p>
+            A. お申し込みは、利用する本人でなくても構いません。ただし、<strong>18歳以上</strong>の方がする必要があります。</p>
           </div>
         </div>
       </article>
@@ -142,9 +142,9 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>電話番号の移行にかかる時間は、まちまちで予測できない。</p>
             <ol>
-              <li>その場で<small>（1時間以内に）</small>完了する<i class="icon ion-happy-outline"></i></li>
-              <li>24営業時間で完了する<small>（正常）</small></li>
-              <li>7営業日<small>（情報に誤りがあるなど）</small></li>
+              <li>その場で<small>（1時間以内に）</small>完了<i class="icon ion-happy-outline"></i></li>
+              <li>24営業時間で完了<small>（正常）</small></li>
+              <li>7営業日で完了<small>（情報に誤りがあるなど）</small></li>
               <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
             </ol>
             <p>移行が完了するまでの間は：</p>
