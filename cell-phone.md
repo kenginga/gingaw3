@@ -83,12 +83,12 @@ permalink: /cell-phone/
               <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で解約しない</li>
               <li><i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない</li>
               <li>
-                <a data-toggle="collapse" href="#number-porting-info">
+                <a data-toggle="collapse" href="#understand-etf">
                   <i class="icon ion-ios-checkmark-outline"></i> 早期解約手数料（ETF)を理解する
                 </a>
-                <div id="number-porting-info" class="panel-collapse collapse">
+                <div id="understand-etf" class="panel-collapse collapse">
                   <div class="panel-body">
-                    元の電話会社で、契約期間の途中であると、移行することで早期解約手数料(ETF - Early Termination Fee)が発生する場合があります。
+                    元の電話会社で、契約期間の途中であると、移行することで早期解約手数料(ETF = Early Termination Fee)が発生する場合があります。高額かもしれないので、心配な方は、確認しましょう。
                   </div>
                 </div>
               </li>
