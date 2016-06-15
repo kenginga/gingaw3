@@ -155,7 +155,7 @@ permalink: /cell-phone/
                 <li>通話が古い電話へ着信するかも<small>（古い方も持つ）</small></li>
               </ul>
             </small>
-            <p>最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></p>
+            <p class="text-warning">最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></p>
           </div>
         </div>
       </article>
