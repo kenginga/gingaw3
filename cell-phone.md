@@ -221,8 +221,7 @@ permalink: /cell-phone/
           </div>
           <div class="panel-body">
             <p>電話会社がロックをかけている機種と対象に、ロックがかかっていない機種が売られている。日本ではSIMロックフリー、アメリカではアンロックと呼ばれる。</p>
-            <p>SIMカードに制限がないので、自由に電話会社<small>（プラン）</small>を選べる<i class="icon ion-happy-outline"></i></p>
-            <p>ロックされた機種より割高だとしても、利用料金が安くなることで、トータルで考えると安くなることが多い<i class="icon ion-happy-outline"></i></p>
+            <p>SIMカードに制限がないので、自由に電話会社<small>（プラン）</small>を選べる<i class="icon ion-happy-outline"></i> ロックされた機種より割高だとしても、その後の利用料金を安くできて、トータルで考えると安くなることが多い。</p>
             <p class="text-warning">しかし、必ずしも、選んだ電話会社で使えるとは限らない<i class="icon ion-sad-outline"></i> 使いたい電話会社の周波数に対応していないなど<strong>落とし穴</strong>が多い。ロックフリー機種を購入する際には、くれぐれも慎重に確認しないといけない。自由に選ぶ＝自己責任</p>
           </div>
         </div>
