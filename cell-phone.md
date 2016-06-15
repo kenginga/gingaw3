@@ -20,7 +20,7 @@ permalink: /cell-phone/
               <li><strong><span class="font-200 ginga-highlight">端末</span></strong>（機種）</li>
               <li><strong><span class="font-200 ginga-highlight">SIMカード</span></strong></li>
             </ol>
-            <p>SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
+            <p>携帯電話では、SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
             <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない<i class="icon ion-sad-outline"></i></p>
             <p>お店でそろえたら、一番確実で安心<i class="icon ion-ios-heart"></i></p>
           </div>
