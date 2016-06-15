@@ -142,7 +142,7 @@ permalink: /cell-phone/
           <div class="panel-body">
             <p>電話番号の移行にかかる時間は、まちまちで予測できない。</p>
             <ol>
-              <li>その場で<small>（1時間以内に）</small>完了<i class="icon ion-happy-outline"></i></li>
+              <li>その場で<small>（1時間程で）</small>完了<i class="icon ion-happy-outline"></i></li>
               <li>24営業時間で完了<small>（正常）</small></li>
               <li>7営業日で完了<small>（情報に誤りがあるなど）</small></li>
               <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
