@@ -81,20 +81,20 @@ permalink: /cell-phone/
             <p>うまく移行できるように：</p>
             <ul style="list-style-type: none">
               <li>
-                <a data-toggle="collapse" href="#understand-etf">
+                <a data-toggle="collapse" href="#do-not-terminate">
                   <i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で解約しない
                 </a>
-                <div id="understand-etf" class="panel-collapse collapse">
+                <div id="do-not-terminate" class="panel-collapse collapse">
                   <div class="panel-body">
                     移行が完了すると、自動的に解約される。特に元の電話会社へ知らせる必要はない。
                   </div>
                 </div>
               </li>
               <li>
-                <a data-toggle="collapse" href="#understand-etf">
+                <a data-toggle="collapse" href="#unpaid-at-original">
                   <i class="icon ion-ios-checkmark-outline"></i> 元の電話会社で未払い状態にしない
                 </a>
-                <div id="understand-etf" class="panel-collapse collapse">
+                <div id="unpaid-at-original" class="panel-collapse collapse">
                   <div class="panel-body">
                     元の電話会社で利用可能な状態でないと、移行が許されないことがある。また、移行には何日かかかる恐れがある。元の電話会社の残りの利用期間が短いと、移行処理の途中で未払いになるかも。移行には、余裕を持ちましょう。
                   </div>
@@ -142,19 +142,17 @@ permalink: /cell-phone/
             <ol>
               <li>その場で<small>（1時間以内に）</small>完了する<i class="icon ion-happy-outline"></i></li>
               <li>当日中に完了する</li>
-              <li>24営業時間で完了する（正常）</li>
-              <li>7営業日（情報に誤りがあるなど）</li>
-              <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i>【異常事態】</li>
+              <li>24営業時間で完了する<small>（正常）</small></li>
+              <li>7営業日<small>（情報に誤りがあるなど）</small></li>
+              <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
             </ol>
             <p>移行が完了するまでの間：</p>
             <ol>
               <li>元の電話会社と、新しい電話会社の両方で課金される</li>
-              <li></li>
-              <li>24営業時間で完了する（正常）</li>
-              <li>7営業日（情報に誤りがあるなど）</li>
-              <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i>【異常事態】</li>
+              <li>新しい回線で通話の着信ができないなどの制限があるかも</li>
+              <li>通話が古い回線へ着信するかも<small>（古い方・新しい方の2台を持つ）</small></li>
             </ol>
-            
+            <p>最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></p>
           </div>
         </div>
       </article>
