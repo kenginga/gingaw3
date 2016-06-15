@@ -106,7 +106,7 @@ permalink: /cell-phone/
                 </a>
                 <div id="understand-etf" class="panel-collapse collapse">
                   <div class="panel-body">
-                    元の電話会社で、契約期間の途中であると、移行することで早期解約手数料(ETF = Early Termination Fee)が発生する場合があります。高額かもしれないので、心配な方は、確認しましょう。
+                    元の電話会社で、契約期間の途中であると、移行することで早期解約手数料(ETF = Early Termination Fee)が発生する場合がある。高額かもしれないので、心配な方は、確認しましょう。
                   </div>
                 </div>
               </li>
@@ -138,19 +138,18 @@ permalink: /cell-phone/
             <h3 class="panel-title">携帯電話・番号の移行 (2)</h3>
           </div>
           <div class="panel-body">
-            <p>電話番号の移行にかかる時間は、「24営業時間」とされているが、実際には、まちまちで予測できない。</p>
+            <p>電話番号の移行にかかる時間は、まちまちで予測できない。</p>
             <ol>
               <li>その場で<small>（1時間以内に）</small>完了する<i class="icon ion-happy-outline"></i></li>
-              <li>当日中に完了する</li>
               <li>24営業時間で完了する<small>（正常）</small></li>
               <li>7営業日<small>（情報に誤りがあるなど）</small></li>
               <li>7営業日より長くかかる<i class="icon ion-sad-outline"></i><small>【異常事態】</small></li>
             </ol>
             <p>移行が完了するまでの間は：</p>
             <ul>
-              <li>元の電話会社と、新しい電話会社の両方で課金される</li>
-              <li>新しい回線で通話の着信ができないなどの制限があるかも</li>
-              <li>通話が古い回線へ着信するかも<small>（古い方・新しい方の2台を持つ）</small></li>
+              <li>元の電話会社と、新しい方の両方で課金される</li>
+              <li>新しい回線で通話の着信ができないなどの制限あり</li>
+              <li>通話が古い電話へ着信するかも<small>（古い方も持つ）</small></li>
             </ul>
             <p>最終的に、移行ができない場合には、残念ながら、新しい電話番号になる<i class="icon ion-sad-outline"></i></p>
           </div>
