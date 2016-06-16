@@ -214,7 +214,7 @@ permalink: /cell-phone/
             <h3 class="panel-title">電話会社の機種（SIMロックとは）</h3>
           </div>
           <div class="panel-body">
-            <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、通常、他社のSIMカードは、使えない。</p>
+            <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、通常、他社のSIMカードは使えない。</p>
             <p class="text-warning"><small>スーパーや量販店でも買えて手軽な一方で、利用料金が高かったり、制限が多いなどの苦労があることも<i class="icon ion-sad-outline"></i></small></p>
             <dl class="dl-horizontal">
               <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>（はず）</small>／手軽に買える／電話会社の独自機能</dd>
@@ -222,7 +222,6 @@ permalink: /cell-phone/
             </dl>
             <p>電話会社へ依頼すると、<strong>一定の条件下</strong>で、ロックを解除してくれる<i class="icon ion-happy-outline"></i> そのルールや解除方法は、電話会社<small>（や機種）</small>ごとに異なるので、詳しくは、電話会社へ問い合わせるとよい。</p>
             <p class="text-warning"><small>ただし、ロックを解除しても、他社の回線で使えるとは限らない。<i class="icon ion-sad-outline"></i></small></p>
-            <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された。</p>
           </div>
         </div>
       </article>
