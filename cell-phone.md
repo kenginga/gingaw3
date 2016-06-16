@@ -214,13 +214,13 @@ permalink: /cell-phone/
             <h3 class="panel-title">電話会社の機種（SIMロックとは）</h3>
           </div>
           <div class="panel-body">
-            <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、その電話会社が許すSIMカードしか使えない。通常、他社のSIMカードは、使えない。</p>
+            <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、通常、他社のSIMカードは、使えない。</p>
             <p class="text-warning"><small>スーパーや量販店でも買えて手軽な一方で、利用料金が高かったり、制限が多いなどの苦労があることも<i class="icon ion-sad-outline"></i></small></p>
             <dl class="dl-horizontal">
               <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>（はず）</small>／手軽に買える／電話会社の独自機能</dd>
-              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高かったり利用制限がある<small>（かも）</small></dd>
+              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高かったり制限がある<small>（かも）</small></dd>
             </dl>
-            <p>電話会社へ依頼すると、一定の条件下で、ロックを解除してくれる<i class="icon ion-happy-outline"></i> そのルールは、電話会社<small>（や機種）</small>ごとに異なるので、詳しくは、電話会社へ問い合わせるとよい。</p>
+            <p>電話会社へ依頼すると、<strong>一定の条件下</strong>で、ロックを解除してくれる<i class="icon ion-happy-outline"></i> そのルールや解除方法は、電話会社<small>（や機種）</small>ごとに異なるので、詳しくは、電話会社へ問い合わせるとよい。</p>
             <p class="text-warning"><small>ただし、ロックを解除しても、他社の回線で使えるとは限らない。<i class="icon ion-sad-outline"></i></small></p>
             <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された。</p>
           </div>
@@ -232,9 +232,9 @@ permalink: /cell-phone/
             <h3 class="panel-title">SIMロックフリー(Unlock)機種</h3>
           </div>
           <div class="panel-body">
-            <p>電話会社がロックをかけている機種と対象に、ロックがかかっていない機種が売られている。日本ではSIMロックフリー、アメリカではアンロックと呼ばれる。</p>
+            <p>電話会社がロックをかけている機種と対象に、ロックがかかっていない機種が売られている。SIMロックフリー(またはUnlock)と呼ばれる。</p>
             <p>SIMカードに制限がないので、自由に電話会社<small>（プラン）</small>を選べる<i class="icon ion-happy-outline"></i> ロックされた機種より割高だとしても、その後の利用料金を安くできて、トータルで考えると安くなることが多い。</p>
-            <p class="text-warning">しかし、必ずしも、選んだ電話会社で使えるとは限らない<i class="icon ion-sad-outline"></i> 使いたい電話会社の周波数に対応していないなど<strong>落とし穴</strong>が多い。ロックフリー機種を購入する際には、くれぐれも慎重に確認しないといけない。自由に選ぶ＝自己責任</p>
+            <p class="text-warning">ただし、必ずしも、選んだ電話会社で使えるとは限らない<i class="icon ion-sad-outline"></i> 使いたい電話会社の周波数に対応していないなど<strong>落とし穴</strong>が多い。ロックフリー機種を購入する際には、くれぐれも慎重に確認しないといけない。自由に選ぶ＝自己責任</p>
           </div>
         </div>
       </article>
