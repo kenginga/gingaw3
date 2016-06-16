@@ -211,17 +211,17 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">SIMロック機種</h3>
+            <h3 class="panel-title">電話会社の機種（SIMロックとは）</h3>
           </div>
           <div class="panel-body">
             <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、その電話会社が許すSIMカードしか使えない。通常、他社のSIMカードは、使えない。</p>
-            <p class="text-warning"><small>スーパーや量販店等でも買えて手軽な一方で、利用料金が高かったり、制限が多いなどの苦労があることも<i class="icon ion-sad-outline"></i></small></p>
+            <p class="text-warning"><small>スーパーや量販店でも買えて手軽な一方で、利用料金が高かったり、制限が多いなどの苦労があることも<i class="icon ion-sad-outline"></i></small></p>
             <dl class="dl-horizontal">
-              <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>（はず）</small>／手軽に買える／電話会社の独自機能等</dd>
-              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高い<small>（かも）</small></dd>
+              <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>（はず）</small>／手軽に買える／電話会社の独自機能</dd>
+              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高かったり利用制限がある<small>（かも）</small></dd>
             </dl>
             <p>電話会社へ依頼すると、一定の条件下で、ロックを解除してくれる<i class="icon ion-happy-outline"></i> そのルールは、電話会社<small>（や機種）</small>ごとに異なるので、詳しくは、電話会社へ問い合わせるとよい。</p>
-            <p class="text-warning"><small>ただし、ロックを解除しても、他社のネットワークで使えるとは限らない。<i class="icon ion-sad-outline"></i></small></p>
+            <p class="text-warning"><small>ただし、ロックを解除しても、他社の回線で使えるとは限らない。<i class="icon ion-sad-outline"></i></small></p>
             <p>日本では、2015年5月以降に販売する端末について、SIMロックの解除が義務化された。</p>
           </div>
         </div>
