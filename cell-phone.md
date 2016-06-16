@@ -74,6 +74,19 @@ permalink: /cell-phone/
     <div class="row">
       <article class="col-md-4">
         <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">携帯電話・エリアコード</h3>
+          </div>
+          <div class="panel-body">
+            <p>電話番号のエリアコードは、日本の市外局番に相当する。しかし、日本の携帯電話には「090」「080」などの特別な番号が割り当てられているのに対して、アメリカでは、固定電話と同様に、地域を特定する市外局番が使われる。例えば、シアトルであれば「206」、ベルビューであれば「425」。</p>
+            <p>新しい電話番号で回線を開通する場合、好きなエリアコードを選べる<i class="icon ion-happy-outline"></i> 実際にその地域に住んでいる必要はないが、生活する地域の番号を選んだ方が自分にも相手にも便利。</p>
+            <p>エリアコードを選ぶ際に、加えて、市を指定する。例えば、ベルビューとエバレットは、同じ「425」だが遠く離れているので、ロング・ディスタンスになる。ダイヤルする際に、番号の頭に「1」を付けないとかからない。一方で、シアトルとベルビューの間は、エリアコードは異なるが、ロング・ディスタンスにはならない。</p>
+            <p>まとめると、新しい番号を作るときは、例えば、「ベルビューの425で」といった指定をする。
+          </div>
+        </div>
+      </article>
+      <article class="col-md-4">
+        <div class="panel panel-default">
           <div id="number-porting" class="panel-heading">
             <h3 class="panel-title">携帯電話・番号の移行 (1)</h3>
           </div>
