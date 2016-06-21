@@ -11,24 +11,6 @@ permalink: /cell-phone/
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・必要なもの</h3>
-          </div>
-          <div class="panel-body">
-            <p>携帯電話を使うには、次の３つをそろえる。</p>
-            <ol>
-              <li><strong><span class="font-200 ginga-highlight" style="position: relative">電話回線<img width="100" height="50" src="{{ site.baseurl }}/images/kono-3-tsu.svg" alt="" style="position: absolute; top: 30px; left: 120px;"></span></strong></li>
-              <li><strong><span class="font-200 ginga-highlight">端末</span></strong>（機種）</li>
-              <li><strong><span class="font-200 ginga-highlight">SIMカード</span></strong></li>
-            </ol>
-            <p>携帯電話では、SIMカードを端末に入れて、そこから回線を使う。使う回線は、SIMカードで決まる。</p>
-            <p class="text-warning">ただし、これら3つがそろっていても、組み合わせによっては、使えない<i class="icon ion-sad-outline"></i></p>
-            <p>お店でそろえたら、一番確実で安心<i class="icon ion-ios-heart"></i></p>
-          </div>
-        </div>
-      </article>
-      <article class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
             <h3 class="panel-title">携帯電話・回線の開通 (1)</h3>
           </div>
           <div class="panel-body">
@@ -72,17 +54,6 @@ permalink: /cell-phone/
       </article>
     </div>
     <div class="row">
-      <article class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">携帯電話・エリアコード</h3>
-          </div>
-          <div class="panel-body">
-            <p>電話番号のエリアコードは、日本の市外局番に相当する。しかし、日本の携帯電話には「090」「080」などの特別な番号が割り当てられているのに対して、アメリカでは、固定電話と同様に、地域ごとの市外局番が使われる。<small>※シアトル「206」、ベルビュー「425」など</small></p>
-            <p>新しい電話番号で回線を開通する場合、好きなエリアコードを選べる<i class="icon ion-happy-outline"></i> 実際にその地域に住んでいる必要はないが、生活する地域の番号を選んだ方が便利。その時、「ベルビューの425で」のように、市も指定する。<small>ベルビューとエバレットの間は、同じ「425」だが離れているので、ロング・ディスタンスになる。ダイヤルする際に、番号の先頭に「1」を付ける。一方で、シアトルとベルビューの間は、エリアコードは異なるが、ロング・ディスタンスにならない。</small></p>
-          </div>
-        </div>
-      </article>
       <article class="col-md-4">
         <div class="panel panel-default">
           <div id="number-porting" class="panel-heading">
@@ -172,59 +143,6 @@ permalink: /cell-phone/
       </article>
     </div>
     <div class="row">
-      <article class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">端末×SIMカード</h3>
-          </div>
-          <div class="panel-body">
-            <p>回線が開通すると、回線に結び付いたSIMカードが使えるようになる。回線を使いたい端末に、SIMカードを入れる。</p>
-            <p>人によっては、複数の回線をもっていて、その時々で、SIMカードを使い分ける。例えば：</p>
-            <dl class="dl-horizontal">
-              <dt>アメリカにいる時</dt><dd>→アメリカのSIM</dd>
-              <dt>日本に行ったら</dt><dd>→日本のSIM</dd>
-              <dt>カナダに行ったら</dt><dd>→カナダのSIM</dd>
-            </dl>
-            <p>こうすると、自分や相手の料金が安くなったり、サービス品質が向上する場合がある。端末によっては、同時に2つのSIMカードが入って、切り替えが簡単。</p>
-            <p>逆に、一つのSIMカードを、複数の端末で使ってもいい。自由にSIMカードと端末を組み合わせて使うことができる<i class="icon ion-happy-outline"></i></p>
-          </div>
-        </div>
-      </article>
-      <article class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">SIMカードの大きさ</h3>
-          </div>
-          <div class="panel-body">
-            <p>SIMカードには、3種類の大きさがある。</p>
-            <ul>
-              <li>標準SIM</li>
-              <li>マイクロSIM</li>
-              <li>ナノSIM</li>
-            </ul>
-            <p>標準SIMが一番大きく、ナノSIMが一番小さい。つまり、標準SIM＞マイクロSIM＞ナノSIM。</p>
-            <p>機種ごとに入れられる大きさが決まっているので、それにあったSIMカードを使う。SIMカードの大きさが異なる複数機種を使う場合には、小さいサイズのSIMカードとアダプタを組み合わせる。</p>
-            <p>機種変更などで、別のサイズのSIMカードが必要なときは、お店に相談するとよい<i class="icon ion-happy-outline"></i></p>
-          </div>
-        </div>
-      </article>
-      <article class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">電話会社の機種（SIMロックとは）</h3>
-          </div>
-          <div class="panel-body">
-            <p>電話会社の機種を購入した場合、その端末には、SIMロックがかかっていることが多い。ロックがかかっていると、通常、他社のSIMカードは使えない。</p>
-            <p class="text-warning"><small>スーパーや量販店でも買えて手軽な一方で、利用料金が高かったり、制限が多いなどの苦労があることも<i class="icon ion-sad-outline"></i></small></p>
-            <dl class="dl-horizontal">
-              <dt>SIMロックの利点</dt><dd>→端末価格が安い<small>（はず）</small>／手軽に買える／電話会社の独自機能</dd>
-              <dt>SIMロックの欠点</dt><dd>→使えるSIMカードに制限＝利用料金が高かったり制限がある<small>（かも）</small></dd>
-            </dl>
-            <p>電話会社へ依頼すると、<strong>一定の条件下</strong>で、ロックを解除してくれる<i class="icon ion-happy-outline"></i> そのルールや解除方法は、電話会社<small>（や機種）</small>ごとに異なるので、詳しくは、電話会社へ問い合わせるとよい。</p>
-            <p class="text-warning"><small>ただし、ロックを解除しても、他社の回線で使えるとは限らない。<i class="icon ion-sad-outline"></i></small></p>
-          </div>
-        </div>
-      </article>
       <article class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
